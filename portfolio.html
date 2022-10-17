@@ -73,10 +73,19 @@
 
       <hr> 
 
-      <div class="chart4" id="chart3">
+      <div class="chart" id="Chart3"></div>
+         
+      <div class="chart" id="Chart4"> </div>
+
+        
         <script>
             var myChart3= "chart3_IMF_lendingoutstanding.json";
             vegaEmbed('#chart3', myChart3);
+
+            var myChart4= "adjusted.json";
+            vegaEmbed('#chart4', myChart4);
+
+      
         
         </script>
       </div>
@@ -87,12 +96,14 @@
       //Define charts:
       var myChart1 = "chart1_fishcaughtbysource.json";
       var myChart2 = "chart2_fishcaughtbycontinent.json";
-      var myChart3 = "chart3_IMF_lendingoutstanding.json"
+      var myChart3 = "chart3_IMF_lendingoutstanding.json";
+      var myChart4 = "adjusted.json";
   
       // Embed charts:
       vegaEmbed('#Chart1', myChart1);
       vegaEmbed('#Chart2', myChart2);
       vegaEmbed('#Chart3', myChart3);
+      vegaEmbed('#Chart4', myChart4);
   </script>
   
   </html>
