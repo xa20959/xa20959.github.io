@@ -1,0 +1,32 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Total IMF Crdit Outstanding for all members ",
+    "subtitle": "Billions, SDR (Nominal), source: IMF",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/extcred1.csv"
+  },
+  "transform": [{"calculate": "datum.Totals/1000000000", "as": "billions"}],
+  "height": 300,
+  "width": 260,
+  "mark": {"type": "bar", "color": "#86d0bb"},
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "temporal",
+      "axis": {"title": null, "grid": false, "ticks": false, "labelAngle": 45}
+    },
+    "y": {
+      "field": "billions",
+      "type": "quantitative",
+      "title": "",
+      "axis": {"grid": false}
+    }
+  },
+  "config": {}
+}
