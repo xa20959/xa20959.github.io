@@ -1,0 +1,44 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "height": 300,
+  "width": 345,
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/extcred1_adj.csv"
+  },
+  "title": {
+    "text": "Total IMF Credit Outstanding for all members ",
+    "subtitle": "As a Percent of World GDP, current prices, source:IMF",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+
+
+  "mark": {
+    "type": "bar", 
+    "color": "#056a92"},
+
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "temporal",
+      "axis": {
+        "title": null, 
+        "grid": false, 
+        "ticks": false, 
+        "labelAngle": 45}
+    },
+    
+    "y": {
+      "field": "Proportion",
+      "type": "quantitative",
+      "title": "",
+      "axis": {"grid": false}
+    }
+  }
+
+  
+}

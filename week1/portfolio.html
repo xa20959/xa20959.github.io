@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charlotte Hedger Data Science</title>
+
+      <!--Title - this is the bit that comes up in the tab-->
+      <title>Charlotte's Data Science Project</title>
+    
+      <!-- Title for the page -->
+      <title>Data Science Project</title>
+  
+      <!-- Link to my style sheet -->
+      <link rel="stylesheet" href="portfolio.css">
+  
+      <!--The next three lines allow the Vega embed-->
+      <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+      <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+      <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+  </head>
+  
+  
+  <div class="wrap">    
+  
+      <h1>Data Science Project</h1>
+      <p>Charlotte Hedger | 2011131 </p>
+  
+      <a href="portfolio.html" id="link1">Portfolio</a>
+      <a href="project.html" id="link2">My project</a>
+      <a href="about.html" id="link3">About me</a>
+      <a href="cv.html" id="link4">CV</a>
+  
+  </div>
+  
+  
+  
+  <body>
+      <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
+      <div class="myWeek1">
+    
+        <h3> Week 1 - embedding charts </h3>
+        <div>
+            <hr class="dotted"
+
+        
+        <div class="homework">
+          <p>The first chart looks at the sources that fish have been caught in over the years 1960 to 2010.</p>
+          <p>My second chart looks at the continents in which fish have been caught in over the years 1960 to 2010</p>
+
+        </div>
+        <hr>
+
+          <div class="chart" id="Chart1"></div>
+         
+          <div class="chart" id="Chart2"> </div>
+  
+  
+      </div> 
+
+      <div class="title">
+        <h3> Week 2 - IMF Chart and FT adjustments</h3>
+      </div>
+
+      <hr class="dotted"
+
+      <div class="homework">
+        <p> This first chart displays outstanding IMF lending from 1984 to today</p>
+        <p> Now, this second chart displays an impriovement of the FT version as there is now an inflation adjustment</p>
+
+      </div>
+
+      <hr> 
+
+      <div class="chart" id="Chart3"></div>
+         
+      <div class="chart" id="Chart4"> </div>
+
+        
+        <script>
+            var myChart3= "chart3_IMF_lendingoutstanding.json";
+            vegaEmbed('#chart3', myChart3);
+
+            var myChart4= "adjusted.json";
+            vegaEmbed('#chart4', myChart4);
+
+      
+        
+        </script>
+      </div>
+
+      <div class="title">
+        <h3> Week 3 - Creating and Embedding Charts through API </h3>
+      </div>
+
+      <hr class="dotted"
+
+      <div class="homework">
+        <p> The first chart embeds data on gilt strip yields into a chart specification, by converting CSV cell data into a dictionaries format.</p>
+        <p> Now, this second chart I created and scraped using Python. It shows the rise of average house price sin the UK over the last 22 years. </p>
+
+      </div>
+
+      <hr> 
+
+      <div class="chart" id="Chart5"></div>
+         
+      <div class="chart" id="Chart6"> </div>
+
+        
+        <script>
+            var myChart5= "giltchart.json";
+            vegaEmbed('#chart5', myChart5);
+
+            var myChart6= "houseprices.json";
+            vegaEmbed('#chart6', myChart6);
+
+      
+        
+        </script>
+      </div>
+  </body>
+  
+  
+  <script>
+      //Define charts:
+      var myChart1 = "chart1_fishcaughtbysource.json";
+      var myChart2 = "chart2_fishcaughtbycontinent.json";
+      var myChart3 = "chart3_IMF_lendingoutstanding.json";
+      var myChart4 = "adjusted.json";
+      var myChart5 = "giltchart.json";
+      var myChart6 = "houseprices.json";
+  
+      // Embed charts:
+      vegaEmbed('#Chart1', myChart1);
+      vegaEmbed('#Chart2', myChart2);
+      vegaEmbed('#Chart3', myChart3);
+      vegaEmbed('#Chart4', myChart4);
+      vegaEmbed('#Chart5', myChart5);
+      vegaEmbed('#Chart6', myChart6);
+
+  </script>
+  
+  </html>
+  
+  
+</head>
+
+
+
+
+</body>
+
+</html>
