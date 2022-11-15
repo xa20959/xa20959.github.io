@@ -3,7 +3,7 @@
     "description": "A simple bar chart with embedded data.",
 
     "height": 300,
-  "width": 345,
+  "width": 370,
 
   "title": {
     "text": "Simple bar chart with embedded data - CSV into dictionaries ",

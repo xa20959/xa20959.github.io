@@ -18,7 +18,7 @@ footer {
     height: 100px
 }
 
-/* Choose the appearance of the tags, h1, h3 and p: */
+/* Choose the appearance of the tags, h1, h3 and p and p1: */
 h1, h3, p{
     color:rgb(18, 98, 156);
     font-family: 'Kanit', sans-serif;
@@ -34,6 +34,18 @@ p{
     font-variant: small-caps;
     color: rgb(18, 50, 156);
     background-color: white;
+}
+
+h4{
+    align-items: center;
+    text-align: left;
+    color: black;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-wrap: break-all;
+    font-family: 'Kanit', sans-serif;
+
 }
     
 /* AREAS OF THE PAGE */
