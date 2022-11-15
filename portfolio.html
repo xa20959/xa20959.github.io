@@ -56,6 +56,7 @@
          
           <div class="chart" id="Chart2"> </div>
   
+
   
       </div> 
 
@@ -69,6 +70,7 @@
         <p> This first chart displays outstanding IMF lending from 1984 to today</p>
         <p> Now, this second chart displays an impriovement of the FT version as there is now an inflation adjustment</p>
 
+
       </div>
 
       <hr> 
@@ -76,6 +78,8 @@
       <div class="chart" id="Chart3"></div>
          
       <div class="chart" id="Chart4"> </div>
+
+      <h4> Following the creation of the second chart with an inflation adjustment, I can determine that the riskiest year is 1985. </h4>
 
         
         <script>
@@ -89,6 +93,126 @@
         
         </script>
       </div>
+
+      <div class="title">
+        <h3> Week 3 - Creating and Embedding Charts through API </h3>
+      </div>
+
+      <hr class="dotted"
+
+      <div class="homework">
+        <p> The first chart embeds data on gilt strip yields into a chart specification, by converting CSV cell data into a dictionaries format.</p>
+        <p> Now, this second chart I created and scraped using Python. It uses 3D data to compare unemployment rates for males vs females. It is displayed as two line charts. </p>
+        <p> My final chart shows the same data as my second, but in a stacked form instead. </p>
+
+      </div>
+
+      <hr> 
+
+      <div class="chart" id="Chart5"></div>
+         
+      <div class="chart" id="Chart6"> </div>
+
+      <div class="chart" id="Chart7"> </div>
+
+      <h4> Unlike my second chart, my third chart allows me to see the proportion that each gender contributes to unemployment. </h4>
+
+        <script>
+            var myChart5= "giltchart.json";
+            vegaEmbed('#chart5', myChart5);
+
+            var myChart6= "houseprices.json";
+            vegaEmbed('#chart6', myChart6);
+
+            var myChart7= "stacked.json";
+            vegaEmbed('#chart7', myChart7);
+
+
+
+      
+        
+        </script>
+      </div>
+
+      <div class="title">
+        <h3> Week 4 - Implementing a chart using a data scraper </h3>
+      </div>
+
+      <hr class="dotted"
+
+      <div class="homework">
+        <p> I used colab to scrape this data on the top goal scorers. Here is the link to my colab , click<a class="textlink" href="https://colab.research.google.com/drive/15WLSfppIHwmsLkBaavtDm0m9hNNwdo1_#scrollTo=9xp6z4JE8CIb">here</a>.</p> 
+
+      </div>
+
+      <hr> 
+
+      <div class="chart" id="Chart8"></div>
+    
+
+      <h4> I chose the Sky Sports premier league table because its coding was quite clear and I thought it would be a simple display. </h4>
+
+       
+        <script>
+            var myChart8= "football.json";
+            vegaEmbed('#chart8', myChart8);
+           
+        </script>
+      </div>
+
+
+      <div class="myWeek1">
+    
+        <h3> Week 5 - Loops </h3>
+        <div>
+            <hr class="dotted"
+
+        
+        <div class="homework">
+          <p> Using data from ONS, I have created a loop to show 10 different graphs from the same dataset.</p>
+          <p> Here is the link to my colab , click<a class="textlink" href="https://colab.research.google.com/drive/1XZby-ZtCd68TObDiiEYgYMJNPxjfSEbM#scrollTo=Vqkb4IP6rofk">here</a>.</p> 
+
+
+        </div>
+        <hr>
+
+        <div class="chart" id="Chart9"></div>
+          <div class="chart" id="Chart10"> </div>
+          <div class="chart" id="Chart11"> </div>
+          <div class="chart" id="Chart12"> </div>
+          <div class="chart" id="Chart13"> </div>
+          <div class="chart" id="Chart14"> </div>
+          <div class="chart" id="Chart15"> </div>
+          <div class="chart" id="Chart16"> </div>
+          <div class="chart" id="Chart17"> </div>
+          <div class="chart" id="Chart18"> </div>
+
+  
+          <script>
+           
+            var myChart9= "AIWH.json";
+            vegaEmbed('#chart9', myChart9);
+            var myChart10= "LF2E.json";
+            vegaEmbed('#chart10', myChart10);
+            var myChart11= "LF2U.json";
+            vegaEmbed('#chart11', myChart11);
+            var myChart12= "LF2W.json";
+            vegaEmbed('#chart12', myChart12);
+            var myChart13= "LWFD.json";
+            vegaEmbed('#chart13', myChart13);
+            var myChart14= "LWFG.json";
+            vegaEmbed('#chart14', myChart14);
+            var myChart15= "YBUG.json";
+            vegaEmbed('#chart15', myChart15);
+            var myChart16= "YBUJ.json";
+            vegaEmbed('#chart16', myChart16);
+            var myChart17= "YCGP.json";
+            vegaEmbed('#chart17', myChart17);
+            var myChart18= "YCGV.json";
+            vegaEmbed('#chart18', myChart18);
+        </script>
+  
+      </div> 
   </body>
   
   
@@ -98,12 +222,42 @@
       var myChart2 = "chart2_fishcaughtbycontinent.json";
       var myChart3 = "chart3_IMF_lendingoutstanding.json";
       var myChart4 = "adjusted.json";
+      var myChart5 = "giltchart.json";
+      var myChart6 = "houseprices.json";
+      var myChart7 = "stacked.json";
+      var myChart8 = "football.json";
+      var myChart9 = "AIWH.json";
+      var myChart10= "LF2E.json";
+      var myChart11= "LF2U.json";
+      var myChart12= "LF2W.json";
+      var myChart13= "LWFD.json";
+      var myChart14= "LWFG.json";
+      var myChart15= "YBUG.json";
+      var myChart16= "YBUJ.json";
+      var myChart17= "YCGP.json";
+      var myChart18= "YCGV.json";
+
   
       // Embed charts:
       vegaEmbed('#Chart1', myChart1);
       vegaEmbed('#Chart2', myChart2);
       vegaEmbed('#Chart3', myChart3);
       vegaEmbed('#Chart4', myChart4);
+      vegaEmbed('#Chart5', myChart5);
+      vegaEmbed('#Chart6', myChart6);
+      vegaEmbed('#Chart7', myChart7);
+      vegaEmbed('#Chart8', myChart8);
+      vegaEmbed('#Chart9', myChart9);
+      vegaEmbed('#Chart10', myChart10);
+      vegaEmbed('#Chart11', myChart11);
+      vegaEmbed('#Chart12', myChart12);
+      vegaEmbed('#Chart13', myChart13);
+      vegaEmbed('#Chart14', myChart14);
+      vegaEmbed('#Chart15', myChart15);
+      vegaEmbed('#Chart16', myChart16);
+      vegaEmbed('#Chart17', myChart17);
+      vegaEmbed('#Chart18', myChart18);
+
   </script>
   
   </html>
