@@ -108,6 +108,7 @@
       </div>
 
       <hr> 
+      
 
       <div class="chart" id="Chart5"></div>
          
@@ -176,16 +177,16 @@
         </div>
         <hr>
 
-        <div class="chart" id="Chart9"></div>
-          <div class="chart" id="Chart10"> </div>
-          <div class="chart" id="Chart11"> </div>
-          <div class="chart" id="Chart12"> </div>
-          <div class="chart" id="Chart13"> </div>
-          <div class="chart" id="Chart14"> </div>
-          <div class="chart" id="Chart15"> </div>
-          <div class="chart" id="Chart16"> </div>
-          <div class="chart" id="Chart17"> </div>
-          <div class="chart" id="Chart18"> </div>
+        <div class="grid-container" style = "display: grid;">
+          <div class="grid-item"><div class = dashchart id = "Chart9" style = "display: block;"></div></div>
+          <div class="grid-item"><div class = dashchart id = "Chart10" style = "display: block;"></div></div>
+          <div class="grid-item"><div class = dashchart id = "Chart11" style = "display: block;"></div></div>
+          <div class="grid-item"><div class = dashchart id = "Chart12" style = "display: block;"></div></div>
+          <div class="grid-item"><div class = dashchart id = "Chart13" style = "display: block;"></div></div>
+          <div class="grid-item"><div class = dashchart id = "Chart14" style = "display: block;"></div></div>
+          <div class="grid-item"><div class = dashchart id = "Chart15" style = "display: block;"></div></div>
+          <div class="grid-item"><div class = dashchart id = "Chart16" style = "display: block;"></div></div>
+          <div class="grid-item"><div class = dashchart id = "Chart17" style = "display: block;"></div></div>
 
   
           <script>
@@ -208,8 +209,7 @@
             vegaEmbed('#chart16', myChart16);
             var myChart17= "YCGP.json";
             vegaEmbed('#chart17', myChart17);
-            var myChart18= "YCGV.json";
-            vegaEmbed('#chart18', myChart18);
+
         </script>
   
       </div> 
@@ -235,7 +235,6 @@
       var myChart15= "YBUG.json";
       var myChart16= "YBUJ.json";
       var myChart17= "YCGP.json";
-      var myChart18= "YCGV.json";
 
   
       // Embed charts:
@@ -256,7 +255,6 @@
       vegaEmbed('#Chart15', myChart15);
       vegaEmbed('#Chart16', myChart16);
       vegaEmbed('#Chart17', myChart17);
-      vegaEmbed('#Chart18', myChart18);
 
   </script>
   

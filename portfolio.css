@@ -138,13 +138,28 @@ a{
     padding-bottom: clamp(0.5em,1%,1.5em);
 }
 
+
 .grid-container {
     display: grid;
-    grid-template-columns: auto auto auto;
-    width: 150%;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 3px;
+    justify-content: center !important;
+    vertical-align: bottom;
+    text-align: center !important;
+    align-content: center;
+    max-width: 90%;
+    margin:auto;
+    max-width: 1200px;
+    margin-bottom: 0px !important;
+    margin-top: 0px !important;
   }
 
-
+  .grid-item {
+    padding: 5px;
+    font-size: 10px;
+    margin: 0 auto;
+  }
     
 .loader {
     border: 16px solid white;
