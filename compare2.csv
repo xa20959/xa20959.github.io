@@ -1,0 +1,73 @@
+country,data,type
+Australia,85.51,tertemp
+Austria,86.19,tertemp
+Belgium,86.88,tertemp
+Canada,82.03,tertemp
+Chile,80.03,tertemp
+Colombia,77.35,tertemp
+Costa Rica,80.99,tertemp
+Czech Republic,86.52,tertemp
+Denmark,87.68,tertemp
+Estonia,87.26,tertemp
+Finland,87.75,tertemp
+France,86.30,tertemp
+Germany,88.34,tertemp
+Greece,76.14,tertemp
+Hungary,90.70,tertemp
+Iceland,89.10,tertemp
+Ireland,85.68,tertemp
+Israel,86.75,tertemp
+Italy,82.15,tertemp
+Korea,77.47,tertemp
+Latvia,85.94,tertemp
+Lithuania,89.88,tertemp
+Luxembourg,85.92,tertemp
+Mexico,78.30,tertemp
+Netherlands,89.03,tertemp
+New Zealand,88.98,tertemp
+Norway,89.34,tertemp
+Poland,90.83,tertemp
+Portugal,89.74,tertemp
+Slovak Republic,87.93,tertemp
+Slovenia,89.71,tertemp
+Spain,81.43,tertemp
+Sweden,89.12,tertemp
+Switzerland,88.96,tertemp
+United Kingdom,86.31,tertemp
+United States,80.60,tertemp
+Australia,79.10,secemp
+Austria,75.87,secemp
+Belgium,72.77,secemp
+Canada,72.43,secemp
+Chile,62.62,secemp
+Colombia,68.12,secemp
+Costa Rica,65.82,secemp
+Czech Republic,83.44,secemp
+Denmark,81.85,secemp
+Estonia,79.32,secemp
+Finland,76.82,secemp
+France,74.27,secemp
+Germany,81.66,secemp
+Greece,62.99,secemp
+Hungary,82.49,secemp
+Iceland,82.32,secemp
+Ireland,72.29,secemp
+Israel,70.15,secemp
+Italy,70.30,secemp
+Korea,69.97,secemp
+Latvia,73.40,secemp
+Lithuania,73.17,secemp
+Luxembourg,72.29,secemp
+Mexico,69.29,secemp
+Netherlands,82.93,secemp
+New Zealand,83.29,secemp
+Norway,81.23,secemp
+Poland,73.68,secemp
+Portugal,82.28,secemp
+Slovak Republic,78.84,secemp
+Slovenia,75.47,secemp
+Spain,70.65,secemp
+Sweden,84.05,secemp
+Switzerland,81.52,secemp
+United Kingdom,79.49,secemp
+United States,66.74,secemp
