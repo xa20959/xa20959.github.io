@@ -1,0 +1,1600 @@
+country,Year,value,type
+Albania,2000,3.51,tertiary percentage
+Albania,2010,0.93,tertiary percentage
+Algeria,1975,0.38,tertiary percentage
+Algeria,1980,0.77,tertiary percentage
+Algeria,1985,1.34,tertiary percentage
+Algeria,1990,1.97,tertiary percentage
+Algeria,1995,2.53,tertiary percentage
+Algeria,2000,3.4,tertiary percentage
+Algeria,2005,3.78,tertiary percentage
+Algeria,2010,6.66,tertiary percentage
+Argentina,1970,2.52,tertiary percentage
+Argentina,1975,3.64,tertiary percentage
+Argentina,2000,3.1,tertiary percentage
+Argentina,2005,3.09,tertiary percentage
+Argentina,2010,2.87,tertiary percentage
+Armenia,2005,11.51,tertiary percentage
+Australia,1995,15.87,tertiary percentage
+Australia,2000,13.15,tertiary percentage
+Australia,2005,15.63,tertiary percentage
+Australia,2010,18.52,tertiary percentage
+Bahrain,1975,2.45,tertiary percentage
+Bahrain,1980,3.39,tertiary percentage
+Bahrain,1985,6.28,tertiary percentage
+Bahrain,1995,9.17,tertiary percentage
+Bangladesh,1985,1.08,tertiary percentage
+Bangladesh,1990,1.44,tertiary percentage
+Bangladesh,2005,2.11,tertiary percentage
+Bangladesh,2010,2.28,tertiary percentage
+Barbados,1990,2.07,tertiary percentage
+Barbados,2000,0.66,tertiary percentage
+Barbados,2005,1.53,tertiary percentage
+Barbados,2010,2.07,tertiary percentage
+Belgium,1980,9.04,tertiary percentage
+Belgium,1985,11.2,tertiary percentage
+Belgium,1995,14.51,tertiary percentage
+Belgium,2000,14.95,tertiary percentage
+Belgium,2005,15.82,tertiary percentage
+Belgium,2010,17.69,tertiary percentage
+Belize,2000,3.33,tertiary percentage
+Belize,2005,3.2,tertiary percentage
+Belize,2010,3.18,tertiary percentage
+Benin,1985,0.41,tertiary percentage
+Bolivia,2000,5.27,tertiary percentage
+Botswana,1970,0.28,tertiary percentage
+Botswana,1975,0.25,tertiary percentage
+Botswana,1980,0.19,tertiary percentage
+Botswana,1985,1.09,tertiary percentage
+Botswana,1990,1.52,tertiary percentage
+Botswana,1995,1.9,tertiary percentage
+Botswana,2000,1.73,tertiary percentage
+Botswana,2005,1.79,tertiary percentage
+Brazil,2005,3.73,tertiary percentage
+Brunei,1980,3.65,tertiary percentage
+Brunei,2005,5.65,tertiary percentage
+Brunei,2010,6.51,tertiary percentage
+Bulgaria,2000,9.79,tertiary percentage
+Bulgaria,2005,11.76,tertiary percentage
+Bulgaria,2010,13.07,tertiary percentage
+Burundi,1980,0.19,tertiary percentage
+Burundi,1985,0.25,tertiary percentage
+Burundi,2005,0.34,tertiary percentage
+Burundi,2010,0.54,tertiary percentage
+Cambodia,2000,0.23,tertiary percentage
+Cameroon,1975,0.15,tertiary percentage
+Cameroon,1980,0.18,tertiary percentage
+Cameroon,1990,0.45,tertiary percentage
+Canada,1985,8.14,tertiary percentage
+Canada,1990,9.93,tertiary percentage
+Canada,1995,11.54,tertiary percentage
+Canada,2000,13.89,tertiary percentage
+Central African Rep.,1990,0.87,tertiary percentage
+Chile,2010,5.92,tertiary percentage
+China,1990,1.08,tertiary percentage
+China,1995,1.97,tertiary percentage
+Colombia,1985,5.54,tertiary percentage
+Colombia,1995,8.61,tertiary percentage
+Colombia,2000,8.66,tertiary percentage
+Colombia,2005,6.6,tertiary percentage
+Colombia,2010,18.55,tertiary percentage
+Congo,1980,1.09,tertiary percentage
+Costa Rica,1970,1.75,tertiary percentage
+Costa Rica,1975,3.62,tertiary percentage
+Costa Rica,1980,5.5,tertiary percentage
+Costa Rica,1985,7.39,tertiary percentage
+Costa Rica,1990,9.71,tertiary percentage
+Costa Rica,1995,11.94,tertiary percentage
+Croatia,2000,6.29,tertiary percentage
+Croatia,2005,8.73,tertiary percentage
+Croatia,2010,11.04,tertiary percentage
+Cuba,1980,3.51,tertiary percentage
+Cuba,1985,3.64,tertiary percentage
+Cuba,1990,4.4,tertiary percentage
+Cuba,1995,5.28,tertiary percentage
+Cuba,2000,5.59,tertiary percentage
+Cuba,2005,8.32,tertiary percentage
+Cuba,2010,13.32,tertiary percentage
+Cyprus,1975,3.38,tertiary percentage
+Cyprus,1980,5.79,tertiary percentage
+Cyprus,1985,8.7,tertiary percentage
+Cyprus,1990,11.57,tertiary percentage
+Cyprus,1995,14.6,tertiary percentage
+Cyprus,2000,15.89,tertiary percentage
+Cyprus,2005,14.51,tertiary percentage
+Cyprus,2010,20.75,tertiary percentage
+Dem. Rep. Congo,1975,0.2,tertiary percentage
+Dem. Rep. Congo,1995,0.65,tertiary percentage
+Denmark,1985,9.33,tertiary percentage
+Denmark,1990,8.48,tertiary percentage
+Denmark,1995,10.37,tertiary percentage
+Denmark,2000,12.31,tertiary percentage
+Denmark,2005,14.53,tertiary percentage
+Denmark,2010,14.98,tertiary percentage
+Dominican Republic,2000,2.78,tertiary percentage
+Dominican Republic,2005,2.55,tertiary percentage
+Dominican Republic,2010,2.06,tertiary percentage
+Ecuador,1975,1.33,tertiary percentage
+Ecuador,1980,3.55,tertiary percentage
+Ecuador,2000,6.98,tertiary percentage
+Ecuador,2005,6.16,tertiary percentage
+Ecuador,2010,5.19,tertiary percentage
+Egypt,2000,4.19,tertiary percentage
+Egypt,2010,6.65,tertiary percentage
+El Salvador,1970,1.16,tertiary percentage
+El Salvador,2000,6.54,tertiary percentage
+El Salvador,2005,6.39,tertiary percentage
+El Salvador,2010,3.92,tertiary percentage
+Estonia,1995,11.41,tertiary percentage
+Estonia,2000,15,tertiary percentage
+Estonia,2005,16.58,tertiary percentage
+Estonia,2010,18.87,tertiary percentage
+eSwatini,1970,0.66,tertiary percentage
+eSwatini,1975,1.1,tertiary percentage
+eSwatini,1980,1.63,tertiary percentage
+eSwatini,1985,2.09,tertiary percentage
+eSwatini,1995,1.35,tertiary percentage
+eSwatini,2000,0.94,tertiary percentage
+eSwatini,2005,0.02,tertiary percentage
+Fiji,2000,5.75,tertiary percentage
+Finland,1995,9.49,tertiary percentage
+Finland,2000,10.88,tertiary percentage
+Finland,2005,11.7,tertiary percentage
+Finland,2010,12.35,tertiary percentage
+France,1980,3.74,tertiary percentage
+France,1985,4.86,tertiary percentage
+France,1990,5.81,tertiary percentage
+France,1995,7.2,tertiary percentage
+France,2000,8.44,tertiary percentage
+France,2005,8.71,tertiary percentage
+France,2010,10.6,tertiary percentage
+Gabon,1975,1.66,tertiary percentage
+Gambia,1975,0.09,tertiary percentage
+Gambia,1980,0.27,tertiary percentage
+Gambia,1985,0.5,tertiary percentage
+Gambia,1990,0.77,tertiary percentage
+Gambia,2010,0.91,tertiary percentage
+Germany,2000,10.48,tertiary percentage
+Germany,2005,10.89,tertiary percentage
+Germany,2010,13.14,tertiary percentage
+Ghana,2000,1.84,tertiary percentage
+Ghana,2005,1.66,tertiary percentage
+Greece,1975,5.26,tertiary percentage
+Greece,1980,5.87,tertiary percentage
+Greece,1985,8.74,tertiary percentage
+Greece,1990,11.33,tertiary percentage
+Greece,1995,12.76,tertiary percentage
+Greece,2000,12.22,tertiary percentage
+Greece,2005,19.3,tertiary percentage
+Greece,2010,22.5,tertiary percentage
+Guatemala,1970,0.57,tertiary percentage
+Guatemala,1975,0.73,tertiary percentage
+Guatemala,1980,1.41,tertiary percentage
+Guatemala,2000,1.74,tertiary percentage
+Guatemala,2005,1.54,tertiary percentage
+Guatemala,2010,0,tertiary percentage
+Guyana,2010,0.24,tertiary percentage
+Haiti,1980,0.45,tertiary percentage
+Honduras,1980,1.08,tertiary percentage
+Honduras,2010,1.93,tertiary percentage
+Hong Kong,1975,1.63,tertiary percentage
+Hong Kong,1980,3.33,tertiary percentage
+Hong Kong,1985,4.11,tertiary percentage
+Hungary,1995,8.52,tertiary percentage
+Hungary,2000,9.36,tertiary percentage
+Hungary,2005,12.57,tertiary percentage
+Hungary,2010,15.38,tertiary percentage
+Iceland,2000,10.71,tertiary percentage
+Iceland,2005,14.08,tertiary percentage
+Iceland,2010,17.89,tertiary percentage
+India,2000,4.01,tertiary percentage
+India,2010,4.85,tertiary percentage
+Indonesia,1975,0.24,tertiary percentage
+Indonesia,1990,0.98,tertiary percentage
+Indonesia,1995,1.15,tertiary percentage
+Indonesia,2005,2.67,tertiary percentage
+Indonesia,2010,3.73,tertiary percentage
+Iran,1985,2.55,tertiary percentage
+Iran,1990,4.13,tertiary percentage
+Iran,2000,8,tertiary percentage
+Iran,2005,9.74,tertiary percentage
+Iran,2010,14.66,tertiary percentage
+Iraq,1975,1.68,tertiary percentage
+Iraq,1980,2.15,tertiary percentage
+Iraq,1985,2.98,tertiary percentage
+Iraq,2000,5.34,tertiary percentage
+Ireland,1975,4.42,tertiary percentage
+Ireland,1980,6.02,tertiary percentage
+Ireland,1990,10.61,tertiary percentage
+Ireland,1995,14.07,tertiary percentage
+Ireland,2000,16.37,tertiary percentage
+Ireland,2005,20.47,tertiary percentage
+Ireland,2010,26.8,tertiary percentage
+Israel,2000,18.34,tertiary percentage
+Israel,2005,18.8,tertiary percentage
+Israel,2010,20.26,tertiary percentage
+Italy,1985,2.59,tertiary percentage
+Italy,1995,4.5,tertiary percentage
+Italy,2000,4.99,tertiary percentage
+Italy,2005,5.6,tertiary percentage
+Italy,2010,6.84,tertiary percentage
+Jamaica,1975,0.73,tertiary percentage
+Jamaica,1980,0.75,tertiary percentage
+Jamaica,1985,1.2,tertiary percentage
+Jamaica,2000,7.09,tertiary percentage
+Japan,1975,5.66,tertiary percentage
+Japan,1980,5.04,tertiary percentage
+Japan,1985,10.76,tertiary percentage
+Japan,1990,12.48,tertiary percentage
+Japan,1995,14.28,tertiary percentage
+Japan,2000,16.15,tertiary percentage
+Japan,2005,17.88,tertiary percentage
+Japan,2010,18.91,tertiary percentage
+Jordan,1975,2.73,tertiary percentage
+Jordan,1980,2.91,tertiary percentage
+Jordan,1985,3.81,tertiary percentage
+Jordan,2000,3.74,tertiary percentage
+Jordan,2005,3.98,tertiary percentage
+Jordan,2010,3.8,tertiary percentage
+Kazakhstan,2000,8.42,tertiary percentage
+Kazakhstan,2010,14.03,tertiary percentage
+Kenya,2000,2.26,tertiary percentage
+Kenya,2005,2.84,tertiary percentage
+Kuwait,1975,2.54,tertiary percentage
+Kuwait,1980,3.96,tertiary percentage
+Kuwait,1985,6.1,tertiary percentage
+Kuwait,2000,5.39,tertiary percentage
+Kuwait,2005,4.18,tertiary percentage
+Kuwait,2010,4.28,tertiary percentage
+Kyrgyzstan,2000,6.81,tertiary percentage
+Kyrgyzstan,2005,7.56,tertiary percentage
+Kyrgyzstan,2010,9,tertiary percentage
+Laos,1990,1.9,tertiary percentage
+Laos,2000,2,tertiary percentage
+Laos,2005,2.51,tertiary percentage
+Laos,2010,3.3,tertiary percentage
+Latvia,2010,12.42,tertiary percentage
+Lesotho,1970,0.05,tertiary percentage
+Lesotho,1980,0.19,tertiary percentage
+Lesotho,1985,0.29,tertiary percentage
+Lesotho,1990,0.39,tertiary percentage
+Lesotho,1995,0.54,tertiary percentage
+Lesotho,2000,0.62,tertiary percentage
+Lesotho,2005,0.64,tertiary percentage
+Lesotho,2010,0.76,tertiary percentage
+Libya,1975,0.46,tertiary percentage
+Libya,1980,1.06,tertiary percentage
+Lithuania,2000,8.58,tertiary percentage
+Lithuania,2005,13.51,tertiary percentage
+Lithuania,2010,15.6,tertiary percentage
+Luxembourg,1975,4.66,tertiary percentage
+Luxembourg,2000,9.35,tertiary percentage
+Luxembourg,2005,13.29,tertiary percentage
+Luxembourg,2010,18.54,tertiary percentage
+Macao,1990,3.3,tertiary percentage
+Malawi,2005,0.18,tertiary percentage
+Malaysia,1970,0.61,tertiary percentage
+Malaysia,2000,3.18,tertiary percentage
+Malaysia,2005,4.45,tertiary percentage
+Malaysia,2010,5.81,tertiary percentage
+Maldives,2000,0.16,tertiary percentage
+Mali,2005,0.68,tertiary percentage
+Mali,2010,0.78,tertiary percentage
+Malta,1975,3.31,tertiary percentage
+Malta,1980,3.81,tertiary percentage
+Malta,1985,4.4,tertiary percentage
+Malta,1990,5.39,tertiary percentage
+Malta,1995,6.5,tertiary percentage
+Mauritania,1995,0.93,tertiary percentage
+Mauritania,2000,1.17,tertiary percentage
+Mauritania,2005,1.11,tertiary percentage
+Mauritania,2010,0.97,tertiary percentage
+Mauritius,1975,0.51,tertiary percentage
+Mauritius,1980,0.77,tertiary percentage
+Mauritius,1985,1.11,tertiary percentage
+Mauritius,1990,0.63,tertiary percentage
+Mauritius,2000,0.89,tertiary percentage
+Mauritius,2005,1.6,tertiary percentage
+Mauritius,2010,1.88,tertiary percentage
+Mexico,1985,3.58,tertiary percentage
+Mexico,1990,3.87,tertiary percentage
+Mexico,1995,5.12,tertiary percentage
+Mexico,2000,6.84,tertiary percentage
+Mexico,2005,8.41,tertiary percentage
+Mexico,2010,9.81,tertiary percentage
+Moldova,2000,6.68,tertiary percentage
+Moldova,2005,6.57,tertiary percentage
+Moldova,2010,8.76,tertiary percentage
+Mongolia,1980,8.63,tertiary percentage
+Mongolia,1995,9.2,tertiary percentage
+Mongolia,2000,8.16,tertiary percentage
+Mongolia,2005,15.61,tertiary percentage
+Mongolia,2010,19.66,tertiary percentage
+Morocco,1975,0.59,tertiary percentage
+Morocco,1980,0.7,tertiary percentage
+Morocco,1985,2.21,tertiary percentage
+Morocco,1990,2.98,tertiary percentage
+Morocco,1995,3.69,tertiary percentage
+Morocco,2000,4.07,tertiary percentage
+Morocco,2005,4.67,tertiary percentage
+Morocco,2010,5.35,tertiary percentage
+Mozambique,1985,0.07,tertiary percentage
+Mozambique,1990,0.13,tertiary percentage
+Mozambique,1995,0.14,tertiary percentage
+Mozambique,2000,0.2,tertiary percentage
+Mozambique,2005,0.23,tertiary percentage
+Mozambique,2010,0.26,tertiary percentage
+Myanmar,2000,2.94,tertiary percentage
+Myanmar,2005,3.88,tertiary percentage
+Myanmar,2010,5.15,tertiary percentage
+Namibia,1990,1.29,tertiary percentage
+Namibia,1995,1.24,tertiary percentage
+Namibia,2000,1.25,tertiary percentage
+Namibia,2005,0.94,tertiary percentage
+Nepal,2000,1.81,tertiary percentage
+Netherlands,1975,4.79,tertiary percentage
+Netherlands,1980,6.19,tertiary percentage
+Netherlands,1985,7.84,tertiary percentage
+Netherlands,1990,9.69,tertiary percentage
+Netherlands,1995,11.38,tertiary percentage
+Netherlands,2000,11.81,tertiary percentage
+Netherlands,2005,13.63,tertiary percentage
+Netherlands,2010,15.63,tertiary percentage
+New Zealand,1970,6.72,tertiary percentage
+New Zealand,1975,9.29,tertiary percentage
+New Zealand,1980,12.47,tertiary percentage
+New Zealand,1985,14.66,tertiary percentage
+New Zealand,1990,16.71,tertiary percentage
+New Zealand,1995,17.39,tertiary percentage
+New Zealand,2000,17.86,tertiary percentage
+New Zealand,2005,18.57,tertiary percentage
+New Zealand,2010,15.5,tertiary percentage
+Nicaragua,1970,5.18,tertiary percentage
+Nicaragua,1975,6.02,tertiary percentage
+Nicaragua,1980,7.73,tertiary percentage
+Nicaragua,1985,8.14,tertiary percentage
+Nicaragua,1990,8.16,tertiary percentage
+Nicaragua,1995,8.37,tertiary percentage
+Nicaragua,2000,9.28,tertiary percentage
+Nicaragua,2005,9.32,tertiary percentage
+Nicaragua,2010,10.33,tertiary percentage
+Niger,1990,0.29,tertiary percentage
+Niger,2000,0.42,tertiary percentage
+Niger,2005,0.47,tertiary percentage
+Niger,2010,0.51,tertiary percentage
+Norway,1980,4.38,tertiary percentage
+Norway,1985,5.55,tertiary percentage
+Norway,1990,7.85,tertiary percentage
+Norway,1995,8.81,tertiary percentage
+Norway,2000,10,tertiary percentage
+Norway,2005,11.14,tertiary percentage
+Norway,2010,12.16,tertiary percentage
+Pakistan,2005,4.02,tertiary percentage
+Pakistan,2010,4.43,tertiary percentage
+Panama,1970,2.1,tertiary percentage
+Panama,1975,2.98,tertiary percentage
+Panama,1980,3.57,tertiary percentage
+Panama,1985,4.71,tertiary percentage
+Panama,1990,5.91,tertiary percentage
+Panama,2000,12.53,tertiary percentage
+Panama,2005,13.51,tertiary percentage
+Panama,2010,14.37,tertiary percentage
+Paraguay,1970,1.18,tertiary percentage
+Paraguay,1975,1.37,tertiary percentage
+Paraguay,1980,1.97,tertiary percentage
+Paraguay,1985,2.53,tertiary percentage
+Paraguay,1990,3.36,tertiary percentage
+Paraguay,1995,3.44,tertiary percentage
+Paraguay,2000,3.74,tertiary percentage
+Paraguay,2005,1.51,tertiary percentage
+Paraguay,2010,3.88,tertiary percentage
+Peru,1970,3.05,tertiary percentage
+Peru,1980,6.93,tertiary percentage
+Peru,1985,9.71,tertiary percentage
+Peru,1995,15.53,tertiary percentage
+Peru,2000,20.54,tertiary percentage
+Peru,2005,24.37,tertiary percentage
+Peru,2010,12.27,tertiary percentage
+Philippines,1985,7.13,tertiary percentage
+Philippines,1990,6.73,tertiary percentage
+Philippines,2005,5.94,tertiary percentage
+Poland,2000,6.16,tertiary percentage
+Poland,2005,9.78,tertiary percentage
+Poland,2010,11.37,tertiary percentage
+Portugal,1980,1.36,tertiary percentage
+Portugal,1990,2.88,tertiary percentage
+Portugal,1995,3.77,tertiary percentage
+Portugal,2000,4.28,tertiary percentage
+Portugal,2005,3.04,tertiary percentage
+Portugal,2010,3.26,tertiary percentage
+Qatar,1980,6.49,tertiary percentage
+Qatar,1985,7.15,tertiary percentage
+Qatar,1990,7.82,tertiary percentage
+Qatar,2000,9.8,tertiary percentage
+Qatar,2005,10.55,tertiary percentage
+Qatar,2010,10.05,tertiary percentage
+Romania,1995,4.23,tertiary percentage
+Romania,2000,4.76,tertiary percentage
+Romania,2005,6.31,tertiary percentage
+Romania,2010,6.61,tertiary percentage
+Russia,1995,13.3,tertiary percentage
+Rwanda,2010,0.53,tertiary percentage
+Senegal,1980,0.57,tertiary percentage
+Senegal,1985,0.68,tertiary percentage
+Senegal,1990,0.74,tertiary percentage
+Senegal,2000,0.53,tertiary percentage
+Senegal,2005,0.29,tertiary percentage
+Senegal,2010,1.25,tertiary percentage
+Serbia,2005,8.47,tertiary percentage
+Serbia,2010,8.97,tertiary percentage
+Slovenia,1995,7.22,tertiary percentage
+Slovenia,2000,7.99,tertiary percentage
+Slovenia,2005,10.68,tertiary percentage
+Slovenia,2010,13.25,tertiary percentage
+South Africa,2000,0.53,tertiary percentage
+South Africa,2005,0.36,tertiary percentage
+South Korea,1975,3.47,tertiary percentage
+South Korea,1980,4.76,tertiary percentage
+South Korea,1985,7.18,tertiary percentage
+South Korea,1990,9.4,tertiary percentage
+South Korea,1995,12.9,tertiary percentage
+South Korea,2000,19.08,tertiary percentage
+South Korea,2005,22.09,tertiary percentage
+South Korea,2010,30.04,tertiary percentage
+Spain,1975,3.3,tertiary percentage
+Spain,1980,4.59,tertiary percentage
+Spain,1985,4.57,tertiary percentage
+Spain,1990,4.23,tertiary percentage
+Spain,1995,8.01,tertiary percentage
+Spain,2000,10.69,tertiary percentage
+Spain,2005,13.53,tertiary percentage
+Spain,2010,14.96,tertiary percentage
+Sri Lanka,2010,8.51,tertiary percentage
+Sweden,1990,10.61,tertiary percentage
+Sweden,1995,11.6,tertiary percentage
+Sweden,2000,13.51,tertiary percentage
+Sweden,2005,14.32,tertiary percentage
+Sweden,2010,14.93,tertiary percentage
+Switzerland,1985,7.23,tertiary percentage
+Switzerland,1990,8.77,tertiary percentage
+Switzerland,1995,9.83,tertiary percentage
+Switzerland,2000,10.02,tertiary percentage
+Switzerland,2005,12.8,tertiary percentage
+Switzerland,2010,17.88,tertiary percentage
+Syria,1975,0.91,tertiary percentage
+Syria,1980,1.6,tertiary percentage
+Syria,1985,2.06,tertiary percentage
+Syria,1990,2.36,tertiary percentage
+Syria,1995,2.27,tertiary percentage
+Syria,2000,1.9,tertiary percentage
+Syria,2005,2.33,tertiary percentage
+Syria,2010,2.55,tertiary percentage
+Tajikistan,2000,4.1,tertiary percentage
+Tajikistan,2005,3.7,tertiary percentage
+Tajikistan,2010,3.74,tertiary percentage
+Tanzania,1980,0.24,tertiary percentage
+Tanzania,1985,0.3,tertiary percentage
+Tanzania,1995,0.4,tertiary percentage
+Tanzania,2010,0.36,tertiary percentage
+Togo,1980,0.67,tertiary percentage
+Togo,1985,0.76,tertiary percentage
+Togo,1990,0.83,tertiary percentage
+Togo,1995,0.9,tertiary percentage
+Togo,2000,1.05,tertiary percentage
+Togo,2005,1.29,tertiary percentage
+Tonga,1970,0.91,tertiary percentage
+Tonga,1975,1.05,tertiary percentage
+Tonga,1985,1.2,tertiary percentage
+Tonga,1990,2.47,tertiary percentage
+Trinidad and Tobago,1985,1.66,tertiary percentage
+Trinidad and Tobago,1990,1.9,tertiary percentage
+Tunisia,1975,0.54,tertiary percentage
+Tunisia,1980,0.93,tertiary percentage
+Tunisia,1985,1.38,tertiary percentage
+Tunisia,1990,2.05,tertiary percentage
+Tunisia,1995,2.48,tertiary percentage
+Tunisia,2000,3.77,tertiary percentage
+Tunisia,2005,5.71,tertiary percentage
+Tunisia,2010,7.38,tertiary percentage
+Turkey,1990,5.78,tertiary percentage
+Turkey,1995,5.31,tertiary percentage
+Turkey,2000,4.91,tertiary percentage
+Turkey,2005,4.21,tertiary percentage
+Turkey,2010,5.28,tertiary percentage
+Ukraine,2005,22.33,tertiary percentage
+Ukraine,2010,24.55,tertiary percentage
+United Arab Emirates,1980,3.21,tertiary percentage
+United Arab Emirates,1985,4.75,tertiary percentage
+United Arab Emirates,1990,6.42,tertiary percentage
+United Arab Emirates,1995,8.66,tertiary percentage
+United Kingdom,1975,5.53,tertiary percentage
+United Kingdom,1980,5.5,tertiary percentage
+United Kingdom,1985,6.22,tertiary percentage
+United Kingdom,1990,9,tertiary percentage
+United Kingdom,2000,12.83,tertiary percentage
+United Kingdom,2005,13.77,tertiary percentage
+United Kingdom,2010,15.31,tertiary percentage
+United States of America,1975,13.3,tertiary percentage
+United States of America,1990,20.71,tertiary percentage
+United States of America,1995,20.4,tertiary percentage
+United States of America,2000,22.97,tertiary percentage
+United States of America,2005,22.39,tertiary percentage
+United States of America,2010,26.76,tertiary percentage
+Uruguay,1985,3.38,tertiary percentage
+Uruguay,1995,5.46,tertiary percentage
+Uruguay,2005,3.67,tertiary percentage
+Uruguay,2010,3.5,tertiary percentage
+Venezuela,1975,1.77,tertiary percentage
+Venezuela,2000,2.7,tertiary percentage
+Venezuela,2005,2.97,tertiary percentage
+Venezuela,2010,2.96,tertiary percentage
+Yemen,2005,1.21,tertiary percentage
+Yemen,2010,1.5,tertiary percentage
+Zambia,1980,0.15,tertiary percentage
+Zimbabwe,2000,0.53,tertiary percentage
+Albania,2000,71.45279694,secondary percentage
+Albania,2010,88.41163635,secondary percentage
+Algeria,1975,16.02827072,secondary percentage
+Algeria,1980,30.06514931,secondary percentage
+Algeria,1985,45.0865097,secondary percentage
+Algeria,1990,59.12105179,secondary percentage
+Algeria,1995,58.33716965,secondary percentage
+Algeria,2000,64.72483063,secondary percentage
+Algeria,2005,78.78222656,secondary percentage
+Algeria,2010,97.17192078,secondary percentage
+Argentina,1970,44.5037384,secondary percentage
+Argentina,1975,53.87588882,secondary percentage
+Argentina,2000,96.52345276,secondary percentage
+Argentina,2005,94.00598907,secondary percentage
+Argentina,2010,101.8011169,secondary percentage
+Armenia,2005,91.05856323,secondary percentage
+Australia,1995,142.5077057,secondary percentage
+Australia,2000,162.6100464,secondary percentage
+Australia,2005,148.3661041,secondary percentage
+Australia,2010,132.4566956,secondary percentage
+Bahrain,1975,58.61901093,secondary percentage
+Bahrain,1980,58.99552155,secondary percentage
+Bahrain,1985,92.26914215,secondary percentage
+Bahrain,1995,106.1283569,secondary percentage
+Bangladesh,1985,20.14411926,secondary percentage
+Bangladesh,1990,20.40052032,secondary percentage
+Bangladesh,2005,45.51678848,secondary percentage
+Bangladesh,2010,50.1194191,secondary percentage
+Barbados,1990,85.42957306,secondary percentage
+Barbados,2000,103.6189728,secondary percentage
+Barbados,2005,108.5500031,secondary percentage
+Barbados,2010,101.9024734,secondary percentage
+Belgium,1980,89.71105194,secondary percentage
+Belgium,1985,99.0661087,secondary percentage
+Belgium,1995,146.1407471,secondary percentage
+Belgium,2000,144.6747131,secondary percentage
+Belgium,2005,108.354248,secondary percentage
+Belgium,2010,105.785881,secondary percentage
+Belize,2000,67.97437286,secondary percentage
+Belize,2005,76.51870728,secondary percentage
+Belize,2010,75.35978699,secondary percentage
+Benin,1985,18.69928932,secondary percentage
+Bolivia,2000,71.07254791,secondary percentage
+Botswana,1970,6.270890236,secondary percentage
+Botswana,1975,14.57724953,secondary percentage
+Botswana,1980,18.49167061,secondary percentage
+Botswana,1985,28.0736599,secondary percentage
+Botswana,1990,39.76681137,secondary percentage
+Botswana,1995,56.89171982,secondary percentage
+Botswana,2000,75.21376038,secondary percentage
+Botswana,2005,78.52548981,secondary percentage
+Brazil,2005,101.2919922,secondary percentage
+Brunei,1980,60.76792145,secondary percentage
+Brunei,2005,97.63583374,secondary percentage
+Brunei,2010,99.24432373,secondary percentage
+Bulgaria,2000,92.56424713,secondary percentage
+Bulgaria,2005,90.45072174,secondary percentage
+Bulgaria,2010,90.4246521,secondary percentage
+Burundi,1980,2.604690075,secondary percentage
+Burundi,1985,3.648659945,secondary percentage
+Burundi,2005,12.6990099,secondary percentage
+Burundi,2010,22.8243103,secondary percentage
+Cambodia,2000,17.23127937,secondary percentage
+Cameroon,1975,11.80700016,secondary percentage
+Cameroon,1980,16.64164925,secondary percentage
+Cameroon,1990,25.45207024,secondary percentage
+Canada,1985,98.67622375,secondary percentage
+Canada,1990,99.28910065,secondary percentage
+Canada,1995,104.6010437,secondary percentage
+Canada,2000,101.5200882,secondary percentage
+Central African Rep.,1990,11.4198103,secondary percentage
+Chile,2010,94.57370758,secondary percentage
+China,1990,37.31504059,secondary percentage
+China,1995,51.20373154,secondary percentage
+Colombia,1985,45.14709854,secondary percentage
+Colombia,1995,61.25645065,secondary percentage
+Colombia,2000,69.93157959,secondary percentage
+Colombia,2005,83.40794373,secondary percentage
+Colombia,2010,102.0206223,secondary percentage
+Congo,1980,59.7889595,secondary percentage
+Costa Rica,1970,28.48493958,secondary percentage
+Costa Rica,1975,41.77030945,secondary percentage
+Costa Rica,1980,46.95677948,secondary percentage
+Costa Rica,1985,40.54660034,secondary percentage
+Costa Rica,1990,43.7034111,secondary percentage
+Costa Rica,1995,50.46728897,secondary percentage
+Croatia,2000,85.52747345,secondary percentage
+Croatia,2005,93.14652252,secondary percentage
+Croatia,2010,100.713913,secondary percentage
+Cuba,1980,77.5809021,secondary percentage
+Cuba,1985,82.0865097,secondary percentage
+Cuba,1990,89.10971832,secondary percentage
+Cuba,1995,76.11515808,secondary percentage
+Cuba,2000,83.40912628,secondary percentage
+Cuba,2005,92.64378357,secondary percentage
+Cuba,2010,91.88926697,secondary percentage
+Cyprus,1975,63.41635132,secondary percentage
+Cyprus,1980,68.3632431,secondary percentage
+Cyprus,1985,72.37529755,secondary percentage
+Cyprus,1990,64.16503143,secondary percentage
+Cyprus,1995,94.84616852,secondary percentage
+Cyprus,2000,93.37213898,secondary percentage
+Cyprus,2005,96.54328156,secondary percentage
+Cyprus,2010,91.44080353,secondary percentage
+Dem. Rep. Congo,1975,15.28394985,secondary percentage
+Dem. Rep. Congo,1995,27.92943001,secondary percentage
+Denmark,1985,103.5892105,secondary percentage
+Denmark,1990,109.5280228,secondary percentage
+Denmark,1995,117.9424591,secondary percentage
+Denmark,2000,127.0542984,secondary percentage
+Denmark,2005,124.1809235,secondary percentage
+Denmark,2010,119.5693893,secondary percentage
+Dominican Republic,2000,59.03738022,secondary percentage
+Dominican Republic,2005,69.74497986,secondary percentage
+Dominican Republic,2010,76.01545715,secondary percentage
+Ecuador,1975,35.63124084,secondary percentage
+Ecuador,1980,49.73735046,secondary percentage
+Ecuador,2000,57.84692001,secondary percentage
+Ecuador,2005,61.87860107,secondary percentage
+Ecuador,2010,88.73893738,secondary percentage
+Egypt,2000,80.51473236,secondary percentage
+Egypt,2010,71.50567627,secondary percentage
+El Salvador,1970,20.92786026,secondary percentage
+El Salvador,2000,58.49634171,secondary percentage
+El Salvador,2005,68.53398132,secondary percentage
+El Salvador,2010,72.02085114,secondary percentage
+Estonia,1995,102.4437027,secondary percentage
+Estonia,2000,93.8263092,secondary percentage
+Estonia,2005,102.7899323,secondary percentage
+Estonia,2010,105.2962418,secondary percentage
+eSwatini,1970,16.30878067,secondary percentage
+eSwatini,1975,28.36160088,secondary percentage
+eSwatini,1980,33.71802902,secondary percentage
+eSwatini,1985,37.59532166,secondary percentage
+eSwatini,1995,47.19409943,secondary percentage
+eSwatini,2000,41.98171997,secondary percentage
+eSwatini,2005,46.62028885,secondary percentage
+Fiji,2000,78.34345245,secondary percentage
+Finland,1995,115.5559769,secondary percentage
+Finland,2000,124.7591782,secondary percentage
+Finland,2005,111.971077,secondary percentage
+Finland,2010,107.2725906,secondary percentage
+France,1980,83.84619141,secondary percentage
+France,1985,89.82743835,secondary percentage
+France,1990,96.85092163,secondary percentage
+France,1995,114.2231216,secondary percentage
+France,2000,108.7775497,secondary percentage
+France,2005,112.273819,secondary percentage
+France,2010,111.3268967,secondary percentage
+Gabon,1975,27.76140022,secondary percentage
+Gambia,1975,10.66219044,secondary percentage
+Gambia,1980,14.02595043,secondary percentage
+Gambia,1985,18.33485031,secondary percentage
+Gambia,1990,17.1861496,secondary percentage
+Gambia,2010,57.45183182,secondary percentage
+Germany,2000,99.84454346,secondary percentage
+Germany,2005,102.5061035,secondary percentage
+Germany,2010,103.9837036,secondary percentage
+Ghana,2000,35.65568161,secondary percentage
+Ghana,2005,41.06443024,secondary percentage
+Greece,1975,74.75375366,secondary percentage
+Greece,1980,81.44464874,secondary percentage
+Greece,1985,87.89961243,secondary percentage
+Greece,1990,94.9295578,secondary percentage
+Greece,1995,91.96600342,secondary percentage
+Greece,2000,89.93728638,secondary percentage
+Greece,2005,99.64308929,secondary percentage
+Greece,2010,104.9792633,secondary percentage
+Guatemala,1970,10.29294968,secondary percentage
+Guatemala,1975,12.15783978,secondary percentage
+Guatemala,1980,18.34934044,secondary percentage
+Guatemala,2000,36.16366959,secondary percentage
+Guatemala,2005,49.75881958,secondary percentage
+Guatemala,2010,63.14287186,secondary percentage
+Guyana,2010,88.64228058,secondary percentage
+Haiti,1980,11.84694958,secondary percentage
+Honduras,1980,29.44621086,secondary percentage
+Honduras,2010,72.63659668,secondary percentage
+Hong Kong,1975,45.95853043,secondary percentage
+Hong Kong,1980,58.63764954,secondary percentage
+Hong Kong,1985,72.40624237,secondary percentage
+Hungary,1995,89.13465881,secondary percentage
+Hungary,2000,96.18340302,secondary percentage
+Hungary,2005,96.1855011,secondary percentage
+Hungary,2010,99.93418121,secondary percentage
+Iceland,2000,107.4035721,secondary percentage
+Iceland,2005,109.1126404,secondary percentage
+Iceland,2010,109.289772,secondary percentage
+India,2000,45.06362152,secondary percentage
+India,2010,63.29093933,secondary percentage
+Indonesia,1975,21.07299042,secondary percentage
+Indonesia,1990,46.58588028,secondary percentage
+Indonesia,1995,47.58974075,secondary percentage
+Indonesia,2005,60.13283157,secondary percentage
+Indonesia,2010,76.54019165,secondary percentage
+Iran,1985,44.39770126,secondary percentage
+Iran,1990,53.21755981,secondary percentage
+Iran,2000,78.58412933,secondary percentage
+Iran,2005,75.84529114,secondary percentage
+Iran,2010,81.95504761,secondary percentage
+Iraq,1975,34.42621994,secondary percentage
+Iraq,1980,53.15288925,secondary percentage
+Iraq,1985,49.24594116,secondary percentage
+Iraq,2000,37.46913147,secondary percentage
+Ireland,1975,85.2335968,secondary percentage
+Ireland,1980,90.25186157,secondary percentage
+Ireland,1990,94.44158936,secondary percentage
+Ireland,1995,109.2041397,secondary percentage
+Ireland,2000,99.43411255,secondary percentage
+Ireland,2005,109.5394897,secondary percentage
+Ireland,2010,123.4626083,secondary percentage
+Israel,2000,103.0032196,secondary percentage
+Israel,2005,104.7361221,secondary percentage
+Israel,2010,102.0558395,secondary percentage
+Italy,1985,73.86260223,secondary percentage
+Italy,1995,88.81929016,secondary percentage
+Italy,2000,92.48458099,secondary percentage
+Italy,2005,98.28961182,secondary percentage
+Italy,2010,102.2126999,secondary percentage
+Jamaica,1975,55.34973145,secondary percentage
+Jamaica,1980,68.21568298,secondary percentage
+Jamaica,1985,61.33412933,secondary percentage
+Jamaica,2000,86.37068939,secondary percentage
+Japan,1975,92.2703476,secondary percentage
+Japan,1980,92.46537781,secondary percentage
+Japan,1985,94.91927338,secondary percentage
+Japan,1990,95.62463379,secondary percentage
+Japan,1995,100.8566895,secondary percentage
+Japan,2000,101.8340988,secondary percentage
+Japan,2005,100.9985275,secondary percentage
+Japan,2010,101.6094971,secondary percentage
+Jordan,1975,58.23751068,secondary percentage
+Jordan,1980,77.58165741,secondary percentage
+Jordan,1985,81.46237183,secondary percentage
+Jordan,2000,86.02574921,secondary percentage
+Jordan,2005,91.01516724,secondary percentage
+Jordan,2010,88.51937103,secondary percentage
+Kazakhstan,2000,93.39524841,secondary percentage
+Kazakhstan,2010,97.73449707,secondary percentage
+Kenya,2000,39.31182861,secondary percentage
+Kenya,2005,47.8987999,secondary percentage
+Kuwait,1975,58.0200882,secondary percentage
+Kuwait,1980,78.80756378,secondary percentage
+Kuwait,1985,87.50417328,secondary percentage
+Kuwait,2000,98.72479248,secondary percentage
+Kuwait,2005,110.4597702,secondary percentage
+Kuwait,2010,93.50528717,secondary percentage
+Kyrgyzstan,2000,84.36998749,secondary percentage
+Kyrgyzstan,2005,86.2731781,secondary percentage
+Kyrgyzstan,2010,86.59747314,secondary percentage
+Laos,1990,23.24340057,secondary percentage
+Laos,2000,34.21492004,secondary percentage
+Laos,2005,43.58848953,secondary percentage
+Laos,2010,46.12401962,secondary percentage
+Latvia,2010,98.34375,secondary percentage
+Lesotho,1970,10.9428196,secondary percentage
+Lesotho,1980,16.67963982,secondary percentage
+Lesotho,1985,21.60041046,secondary percentage
+Lesotho,1990,25.29089928,secondary percentage
+Lesotho,1995,31.65924072,secondary percentage
+Lesotho,2000,32.44839859,secondary percentage
+Lesotho,2005,39.58760071,secondary percentage
+Lesotho,2010,50.4023819,secondary percentage
+Libya,1975,42.21092987,secondary percentage
+Libya,1980,69.59333038,secondary percentage
+Lithuania,2000,98.09205627,secondary percentage
+Lithuania,2005,104.1668625,secondary percentage
+Lithuania,2010,100.9639893,secondary percentage
+Luxembourg,1975,58.31494141,secondary percentage
+Luxembourg,2000,97.0613327,secondary percentage
+Luxembourg,2005,95.3651886,secondary percentage
+Luxembourg,2010,101.3461685,secondary percentage
+Macao,1990,60.88813019,secondary percentage
+Malawi,2005,27.28504944,secondary percentage
+Malaysia,1970,33.81563187,secondary percentage
+Malaysia,2000,66.15923309,secondary percentage
+Malaysia,2005,68.71681976,secondary percentage
+Malaysia,2010,66.88104248,secondary percentage
+Maldives,2000,51.27350998,secondary percentage
+Mali,2005,25.55252075,secondary percentage
+Mali,2010,38.77257919,secondary percentage
+Malta,1975,74.23625946,secondary percentage
+Malta,1980,71.31298065,secondary percentage
+Malta,1985,80.2410202,secondary percentage
+Malta,1990,81.2334137,secondary percentage
+Malta,1995,86.2682724,secondary percentage
+Mauritania,1995,15.38988018,secondary percentage
+Mauritania,2000,18.03800011,secondary percentage
+Mauritania,2005,22.25227928,secondary percentage
+Mauritania,2010,20.32847977,secondary percentage
+Mauritius,1975,37.61299896,secondary percentage
+Mauritius,1980,50.04489899,secondary percentage
+Mauritius,1985,44.45500183,secondary percentage
+Mauritius,1990,52.40914154,secondary percentage
+Mauritius,2000,76.81693268,secondary percentage
+Mauritius,2005,88.65556335,secondary percentage
+Mauritius,2010,89.2469635,secondary percentage
+Mexico,1985,55.18579102,secondary percentage
+Mexico,1990,52.67736816,secondary percentage
+Mexico,1995,56.80064011,secondary percentage
+Mexico,2000,69.91108704,secondary percentage
+Mexico,2005,79.23291016,secondary percentage
+Mexico,2010,83.1858902,secondary percentage
+Moldova,2000,81.59142303,secondary percentage
+Moldova,2005,88.06252289,secondary percentage
+Moldova,2010,87.98113251,secondary percentage
+Mongolia,1980,83.41832733,secondary percentage
+Mongolia,1995,62.69551086,secondary percentage
+Mongolia,2000,65.11853027,secondary percentage
+Mongolia,2005,90.2901535,secondary percentage
+Mongolia,2010,91.59255219,secondary percentage
+Morocco,1975,13.14021969,secondary percentage
+Morocco,1980,20.73402023,secondary percentage
+Morocco,1985,30.47823906,secondary percentage
+Morocco,1990,37.16281891,secondary percentage
+Morocco,1995,37.96450043,secondary percentage
+Morocco,2000,38.44923019,secondary percentage
+Morocco,2005,49.83874893,secondary percentage
+Morocco,2010,62.69213867,secondary percentage
+Mozambique,1985,7.244850159,secondary percentage
+Mozambique,1990,7.045639992,secondary percentage
+Mozambique,1995,7.274419785,secondary percentage
+Mozambique,2000,6.035200119,secondary percentage
+Mozambique,2005,13.0960598,secondary percentage
+Mozambique,2010,24.16601944,secondary percentage
+Myanmar,2000,36.30308151,secondary percentage
+Myanmar,2005,44.30968094,secondary percentage
+Myanmar,2010,48.14157104,secondary percentage
+Namibia,1990,37.97431183,secondary percentage
+Namibia,1995,55.53596115,secondary percentage
+Namibia,2000,60.16957092,secondary percentage
+Namibia,2005,63.52931976,secondary percentage
+Nepal,2000,36.02101898,secondary percentage
+Netherlands,1975,85.36096954,secondary percentage
+Netherlands,1980,91.40868378,secondary percentage
+Netherlands,1985,99.98761749,secondary percentage
+Netherlands,1990,118.4825592,secondary percentage
+Netherlands,1995,140.6178589,secondary percentage
+Netherlands,2000,124.1548004,secondary percentage
+Netherlands,2005,119.330368,secondary percentage
+Netherlands,2010,123.1317596,secondary percentage
+New Zealand,1970,76.82688904,secondary percentage
+New Zealand,1975,80.73243713,secondary percentage
+New Zealand,1980,81.18044281,secondary percentage
+New Zealand,1985,83.73596191,secondary percentage
+New Zealand,1990,88.65158844,secondary percentage
+New Zealand,1995,113.43647,secondary percentage
+New Zealand,2000,110.6454773,secondary percentage
+New Zealand,2005,120.1032715,secondary percentage
+New Zealand,2010,118.9516296,secondary percentage
+Nicaragua,1970,16.94482994,secondary percentage
+Nicaragua,1975,23.46865082,secondary percentage
+Nicaragua,1980,37.62976074,secondary percentage
+Nicaragua,1985,30.02699089,secondary percentage
+Nicaragua,1990,37.06423187,secondary percentage
+Nicaragua,1995,46.4748497,secondary percentage
+Nicaragua,2000,53.18893051,secondary percentage
+Nicaragua,2005,68.79699707,secondary percentage
+Nicaragua,2010,74.18834686,secondary percentage
+Niger,1990,6.244490147,secondary percentage
+Niger,2000,6.947899818,secondary percentage
+Niger,2005,9.908220291,secondary percentage
+Niger,2010,13.51844978,secondary percentage
+Norway,1980,93.72244263,secondary percentage
+Norway,1985,97.20004272,secondary percentage
+Norway,1990,100.9981537,secondary percentage
+Norway,1995,115.9289169,secondary percentage
+Norway,2000,116.086853,secondary percentage
+Norway,2005,113.8761673,secondary percentage
+Norway,2010,113.2305527,secondary percentage
+Pakistan,2005,26.50005913,secondary percentage
+Pakistan,2010,35.84846115,secondary percentage
+Panama,1970,37.49689102,secondary percentage
+Panama,1975,54.06631088,secondary percentage
+Panama,1980,61.14884186,secondary percentage
+Panama,1985,59.39057159,secondary percentage
+Panama,1990,58.92316055,secondary percentage
+Panama,2000,64.84706116,secondary percentage
+Panama,2005,68.21743011,secondary percentage
+Panama,2010,71.34771729,secondary percentage
+Paraguay,1970,15.73052979,secondary percentage
+Paraguay,1975,19.09464073,secondary percentage
+Paraguay,1980,26.67432976,secondary percentage
+Paraguay,1985,30.82856941,secondary percentage
+Paraguay,1990,31.00958061,secondary percentage
+Paraguay,1995,41.35865021,secondary percentage
+Paraguay,2000,62.10958099,secondary percentage
+Paraguay,2005,66.91931152,secondary percentage
+Paraguay,2010,68.32354736,secondary percentage
+Peru,1970,35.76755142,secondary percentage
+Peru,1980,57.76662827,secondary percentage
+Peru,1985,62.41289139,secondary percentage
+Peru,1995,69.60365295,secondary percentage
+Peru,2000,84.69557953,secondary percentage
+Peru,2005,85.44731903,secondary percentage
+Peru,2010,94.70002747,secondary percentage
+Philippines,1985,67.15247345,secondary percentage
+Philippines,1990,71.98571777,secondary percentage
+Philippines,2005,82.84606934,secondary percentage
+Poland,2000,99.24646759,secondary percentage
+Poland,2005,98.47794342,secondary percentage
+Poland,2010,96.73394012,secondary percentage
+Portugal,1980,53.86217117,secondary percentage
+Portugal,1990,60.19021988,secondary percentage
+Portugal,1995,103.3754501,secondary percentage
+Portugal,2000,104.8405914,secondary percentage
+Portugal,2005,98.02078247,secondary percentage
+Portugal,2010,106.9479523,secondary percentage
+Qatar,1980,70.06587219,secondary percentage
+Qatar,1985,82.82927704,secondary percentage
+Qatar,1990,80.05638123,secondary percentage
+Qatar,2000,91.3932724,secondary percentage
+Qatar,2005,99.099823,secondary percentage
+Qatar,2010,101.1461182,secondary percentage
+Romania,1995,73.64807892,secondary percentage
+Romania,2000,79.26947021,secondary percentage
+Romania,2005,83.71562958,secondary percentage
+Romania,2010,100.2386932,secondary percentage
+Russia,1995,91.06440735,secondary percentage
+Rwanda,2010,32.76185989,secondary percentage
+Senegal,1980,10.81830978,secondary percentage
+Senegal,1985,12.55634975,secondary percentage
+Senegal,1990,15.17076969,secondary percentage
+Senegal,2000,15.84729958,secondary percentage
+Senegal,2005,22.0166893,secondary percentage
+Senegal,2010,35.59769821,secondary percentage
+Serbia,2005,88.59040833,secondary percentage
+Serbia,2010,91.42762756,secondary percentage
+Slovenia,1995,89.98995209,secondary percentage
+Slovenia,2000,100.9327927,secondary percentage
+Slovenia,2005,97.12325287,secondary percentage
+Slovenia,2010,97.85897827,secondary percentage
+South Africa,2000,87.29351044,secondary percentage
+South Africa,2005,88.91317749,secondary percentage
+South Korea,1975,54.38634109,secondary percentage
+South Korea,1980,76.84526062,secondary percentage
+South Korea,1985,90.57557678,secondary percentage
+South Korea,1990,92.61814117,secondary percentage
+South Korea,1995,101.2559814,secondary percentage
+South Korea,2000,98.39324951,secondary percentage
+South Korea,2005,93.22036743,secondary percentage
+South Korea,2010,96.07978821,secondary percentage
+Spain,1975,65.98651123,secondary percentage
+Spain,1980,84.84918976,secondary percentage
+Spain,1985,91.38234711,secondary percentage
+Spain,1990,101.158371,secondary percentage
+Spain,1995,114.1513596,secondary percentage
+Spain,2000,110.2685089,secondary percentage
+Spain,2005,117.5131378,secondary percentage
+Spain,2010,124.3840637,secondary percentage
+Sri Lanka,2010,96.93235779,secondary percentage
+Sweden,1990,89.71539307,secondary percentage
+Sweden,1995,130.8143463,secondary percentage
+Sweden,2000,151.9077454,secondary percentage
+Sweden,2005,104.1105194,secondary percentage
+Sweden,2010,98.19065857,secondary percentage
+Switzerland,1985,94.69374847,secondary percentage
+Switzerland,1990,95.67987061,secondary percentage
+Switzerland,1995,101.3205414,secondary percentage
+Switzerland,2000,95.41233826,secondary percentage
+Switzerland,2005,95.18182373,secondary percentage
+Switzerland,2010,95.86147308,secondary percentage
+Syria,1975,43.42126083,secondary percentage
+Syria,1980,47.69234085,secondary percentage
+Syria,1985,54.90423965,secondary percentage
+Syria,1990,50.80084991,secondary percentage
+Syria,1995,42.96670151,secondary percentage
+Syria,2000,43.98995972,secondary percentage
+Syria,2005,69.97216797,secondary percentage
+Syria,2010,72.85700226,secondary percentage
+Tajikistan,2000,73.20059204,secondary percentage
+Tajikistan,2005,80.4129715,secondary percentage
+Tajikistan,2010,84.43119049,secondary percentage
+Tanzania,1980,3.31050992,secondary percentage
+Tanzania,1985,3.412319899,secondary percentage
+Tanzania,1995,5.319990158,secondary percentage
+Tanzania,2010,31.14370918,secondary percentage
+Togo,1980,31.66971016,secondary percentage
+Togo,1985,18.59235001,secondary percentage
+Togo,1990,21.52737045,secondary percentage
+Togo,1995,21.98855972,secondary percentage
+Togo,2000,32.12369156,secondary percentage
+Togo,2005,45.02996826,secondary percentage
+Tonga,1970,86.57746887,secondary percentage
+Tonga,1975,79.12861633,secondary percentage
+Tonga,1985,87.29440308,secondary percentage
+Tonga,1990,98.43166351,secondary percentage
+Trinidad and Tobago,1985,81.48721313,secondary percentage
+Trinidad and Tobago,1990,83.16883087,secondary percentage
+Tunisia,1975,20.95124054,secondary percentage
+Tunisia,1980,25.16473007,secondary percentage
+Tunisia,1985,36.73892975,secondary percentage
+Tunisia,1990,44.85169983,secondary percentage
+Tunisia,1995,56.99982071,secondary percentage
+Tunisia,2000,74.63600922,secondary percentage
+Tunisia,2005,84.80422211,secondary percentage
+Tunisia,2010,90.42878723,secondary percentage
+Turkey,1990,50.28557968,secondary percentage
+Turkey,1995,61.29222107,secondary percentage
+Turkey,2000,72.72325897,secondary percentage
+Turkey,2005,83.42687225,secondary percentage
+Turkey,2010,84.20423126,secondary percentage
+Ukraine,2005,96.99604034,secondary percentage
+Ukraine,2010,95.09127045,secondary percentage
+United Arab Emirates,1980,44.76773834,secondary percentage
+United Arab Emirates,1985,67.7546463,secondary percentage
+United Arab Emirates,1990,62.24357986,secondary percentage
+United Arab Emirates,1995,83.4752121,secondary percentage
+United Kingdom,1975,82.13739777,secondary percentage
+United Kingdom,1980,80.76638794,secondary percentage
+United Kingdom,1985,83.56845093,secondary percentage
+United Kingdom,1990,84.36380768,secondary percentage
+United Kingdom,2000,101.9333801,secondary percentage
+United Kingdom,2005,105.3872833,secondary percentage
+United Kingdom,2010,101.9088593,secondary percentage
+United States of America,1975,85.18713379,secondary percentage
+United States of America,1990,91.00752258,secondary percentage
+United States of America,1995,95.05888367,secondary percentage
+United States of America,2000,93.17204285,secondary percentage
+United States of America,2005,95.67317963,secondary percentage
+United States of America,2010,94.31130981,secondary percentage
+Uruguay,1985,71.92208099,secondary percentage
+Uruguay,1995,82.38668823,secondary percentage
+Uruguay,2005,101.2155075,secondary percentage
+Uruguay,2010,90.29585266,secondary percentage
+Venezuela,1975,40.54708862,secondary percentage
+Venezuela,2000,59.32582855,secondary percentage
+Venezuela,2005,72.95439148,secondary percentage
+Venezuela,2010,80.94776154,secondary percentage
+Yemen,2005,45.65373993,secondary percentage
+Yemen,2010,43.37461853,secondary percentage
+Zambia,1980,15.99697971,secondary percentage
+Zimbabwe,2000,42.56227112,secondary percentage
+Albania,2000,95.88987732,primary percentage
+Albania,2010,92.81300354,primary percentage
+Algeria,1975,73.81182861,primary percentage
+Algeria,1980,79.61676025,primary percentage
+Algeria,1985,80.24537659,primary percentage
+Algeria,1990,85.39038849,primary percentage
+Algeria,1995,87.88340759,primary percentage
+Algeria,2000,90.52371979,primary percentage
+Algeria,2005,95.53875732,primary percentage
+Algeria,2010,98.66047668,primary percentage
+Argentina,1970,94.97293854,primary percentage
+Argentina,1975,96.38580322,primary percentage
+Argentina,2000,99.76035309,primary percentage
+Argentina,2005,99.55586243,primary percentage
+Argentina,2010,99.33119965,primary percentage
+Armenia,2005,87.55303192,primary percentage
+Australia,1995,94.52844238,primary percentage
+Australia,2000,94.1244812,primary percentage
+Australia,2005,98.45733643,primary percentage
+Australia,2010,99.49507904,primary percentage
+Bahrain,1975,85.24125671,primary percentage
+Bahrain,1980,82.43894958,primary percentage
+Bahrain,1985,91.11689758,primary percentage
+Bahrain,1995,99.10218811,primary percentage
+Bangladesh,1985,61.233181,primary percentage
+Bangladesh,1990,72.46459961,primary percentage
+Bangladesh,2005,95.37301636,primary percentage
+Bangladesh,2010,94.54773712,primary percentage
+Barbados,1990,97.60317993,primary percentage
+Barbados,2000,97.71736145,primary percentage
+Barbados,2005,92.12721252,primary percentage
+Barbados,2010,97.90988159,primary percentage
+Belgium,1980,99.69441986,primary percentage
+Belgium,1985,93.29148102,primary percentage
+Belgium,1995,96.33573151,primary percentage
+Belgium,2000,100,primary percentage
+Belgium,2005,97.55854034,primary percentage
+Belgium,2010,99.62631989,primary percentage
+Belize,2000,96.5792923,primary percentage
+Belize,2005,95.18492889,primary percentage
+Belize,2010,98.24066162,primary percentage
+Benin,1985,50.41601181,primary percentage
+Bolivia,2000,99.55016327,primary percentage
+Botswana,1970,43.63867188,primary percentage
+Botswana,1975,56.6987381,primary percentage
+Botswana,1980,72.66195679,primary percentage
+Botswana,1985,83.15366364,primary percentage
+Botswana,1990,85.62911224,primary percentage
+Botswana,1995,77.3423996,primary percentage
+Botswana,2000,81.91937256,primary percentage
+Botswana,2005,85.99880219,primary percentage
+Brazil,2005,96.07993317,primary percentage
+Brunei,1980,82.36090851,primary percentage
+Brunei,2005,99.96050262,primary percentage
+Brunei,2010,99.50827789,primary percentage
+Bulgaria,2000,98.4506073,primary percentage
+Bulgaria,2005,94.01400757,primary percentage
+Bulgaria,2010,99.63295746,primary percentage
+Burundi,1980,19.17012978,primary percentage
+Burundi,1985,39.65439987,primary percentage
+Burundi,2005,56.49404144,primary percentage
+Burundi,2010,91.58412933,primary percentage
+Cambodia,2000,92.82575989,primary percentage
+Cameroon,1975,63.61211014,primary percentage
+Cameroon,1980,66.25707245,primary percentage
+Cameroon,1990,72.02024841,primary percentage
+Canada,1985,94.66262054,primary percentage
+Canada,1990,95.27604675,primary percentage
+Canada,1995,94.26078033,primary percentage
+Canada,2000,99.92205048,primary percentage
+Central African Rep.,1990,57.4131012,primary percentage
+Chile,2010,96.73356628,primary percentage
+China,1990,96.84793091,primary percentage
+China,1995,92.30217743,primary percentage
+Colombia,1985,67.64785004,primary percentage
+Colombia,1995,81.03540039,primary percentage
+Colombia,2000,100,primary percentage
+Colombia,2005,99.95747375,primary percentage
+Colombia,2010,99.63916779,primary percentage
+Congo,1980,88.97238159,primary percentage
+Costa Rica,1970,87.66568756,primary percentage
+Costa Rica,1975,90.26972961,primary percentage
+Costa Rica,1980,89.21460724,primary percentage
+Costa Rica,1985,86.08490753,primary percentage
+Costa Rica,1990,87.7338028,primary percentage
+Costa Rica,1995,92.44824982,primary percentage
+Croatia,2000,93.98873901,primary percentage
+Croatia,2005,99.00324249,primary percentage
+Croatia,2010,94.88334656,primary percentage
+Cuba,1980,97.61051178,primary percentage
+Cuba,1985,91.24095154,primary percentage
+Cuba,1990,92.49298859,primary percentage
+Cuba,1995,97.24420166,primary percentage
+Cuba,2000,98.27877045,primary percentage
+Cuba,2005,95.02284241,primary percentage
+Cuba,2010,99.78925323,primary percentage
+Cyprus,1975,71.21983337,primary percentage
+Cyprus,1980,68.73445129,primary percentage
+Cyprus,1985,69.16623688,primary percentage
+Cyprus,1990,78.82209778,primary percentage
+Cyprus,1995,96.21299744,primary percentage
+Cyprus,2000,98.20912933,primary percentage
+Cyprus,2005,99.97486115,primary percentage
+Cyprus,2010,99.96544647,primary percentage
+Dem. Rep. Congo,1975,70.22415161,primary percentage
+Dem. Rep. Congo,1995,66.0308075,primary percentage
+Denmark,1985,98.84616852,primary percentage
+Denmark,1990,97.7409668,primary percentage
+Denmark,1995,98.32016754,primary percentage
+Denmark,2000,99.93332672,primary percentage
+Denmark,2005,98.6472702,primary percentage
+Denmark,2010,98.81934357,primary percentage
+Dominican Republic,2000,86.467453,primary percentage
+Dominican Republic,2005,84.90766907,primary percentage
+Dominican Republic,2010,92.806633,primary percentage
+Ecuador,1975,80.80831146,primary percentage
+Ecuador,1980,88.0740509,primary percentage
+Ecuador,2000,97.64555359,primary percentage
+Ecuador,2005,99.37654114,primary percentage
+Ecuador,2010,99.23693085,primary percentage
+Egypt,2000,88.57434845,primary percentage
+Egypt,2010,99.07436371,primary percentage
+El Salvador,1970,64.89058685,primary percentage
+El Salvador,2000,94.07225037,primary percentage
+El Salvador,2005,99.55001068,primary percentage
+El Salvador,2010,99.97409058,primary percentage
+Estonia,1995,87.03452301,primary percentage
+Estonia,2000,98.98123169,primary percentage
+Estonia,2005,98.59275055,primary percentage
+Estonia,2010,99.41869354,primary percentage
+eSwatini,1970,55.82130051,primary percentage
+eSwatini,1975,63.96886826,primary percentage
+eSwatini,1980,69.91616821,primary percentage
+eSwatini,1985,74.09831238,primary percentage
+eSwatini,1995,74.47625732,primary percentage
+eSwatini,2000,72.34062958,primary percentage
+eSwatini,2005,76.48808289,primary percentage
+Fiji,2000,94.86332703,primary percentage
+Finland,1995,98.45691681,primary percentage
+Finland,2000,99.73101044,primary percentage
+Finland,2005,97.77645874,primary percentage
+Finland,2010,98.2351532,primary percentage
+France,1980,99.752388,primary percentage
+France,1985,95.75974274,primary percentage
+France,1990,99.95854187,primary percentage
+France,1995,98.72119904,primary percentage
+France,2000,99.84751129,primary percentage
+France,2005,99.97608185,primary percentage
+France,2010,99.97776794,primary percentage
+Gabon,1975,99.24632263,primary percentage
+Gambia,1975,25.43634987,primary percentage
+Gambia,1980,42.0240097,primary percentage
+Gambia,1985,61.67187119,primary percentage
+Gambia,1990,47.79296875,primary percentage
+Gambia,2010,71.77926636,primary percentage
+Germany,2000,99.87580872,primary percentage
+Germany,2005,99.75000763,primary percentage
+Germany,2010,99.61226654,primary percentage
+Ghana,2000,70.4852066,primary percentage
+Ghana,2005,73.93006134,primary percentage
+Greece,1975,97.62570953,primary percentage
+Greece,1980,93.96086121,primary percentage
+Greece,1985,99.51448059,primary percentage
+Greece,1990,95.41964722,primary percentage
+Greece,1995,91.36116028,primary percentage
+Greece,2000,98.07476807,primary percentage
+Greece,2005,97.17047119,primary percentage
+Greece,2010,98.79174805,primary percentage
+Guatemala,1970,49.21178055,primary percentage
+Guatemala,1975,52.40655136,primary percentage
+Guatemala,1980,56.91339111,primary percentage
+Guatemala,2000,87.23458862,primary percentage
+Guatemala,2005,94.63819122,primary percentage
+Guatemala,2010,98.92204285,primary percentage
+Guyana,2010,85.23316956,primary percentage
+Haiti,1980,35.89825058,primary percentage
+Honduras,1980,76.92098999,primary percentage
+Honduras,2010,99.12895966,primary percentage
+Hong Kong,1975,88.75450134,primary percentage
+Hong Kong,1980,94.84410858,primary percentage
+Hong Kong,1985,96.74746704,primary percentage
+Hungary,1995,90.54962921,primary percentage
+Hungary,2000,96.86351776,primary percentage
+Hungary,2005,97.35945129,primary percentage
+Hungary,2010,99.49611664,primary percentage
+Iceland,2000,99.18321228,primary percentage
+Iceland,2005,97.89407349,primary percentage
+Iceland,2010,98.68495941,primary percentage
+India,2000,84.13654327,primary percentage
+India,2010,96.19281006,primary percentage
+Indonesia,1975,73.35959625,primary percentage
+Indonesia,1990,96.28028107,primary percentage
+Indonesia,1995,93.65796661,primary percentage
+Indonesia,2005,93.11070251,primary percentage
+Indonesia,2010,96.81365204,primary percentage
+Iran,1985,83.36122131,primary percentage
+Iran,1990,92.56614685,primary percentage
+Iran,2000,85.25190735,primary percentage
+Iran,2005,96.18341827,primary percentage
+Iran,2010,99.68312073,primary percentage
+Iraq,1975,64.52004242,primary percentage
+Iraq,1980,93.50881195,primary percentage
+Iraq,1985,87.42101288,primary percentage
+Iraq,2000,88.41908264,primary percentage
+Ireland,1975,93.81690979,primary percentage
+Ireland,1980,93.21868896,primary percentage
+Ireland,1990,87.97194672,primary percentage
+Ireland,1995,86.9253006,primary percentage
+Ireland,2000,99.7543869,primary percentage
+Ireland,2005,99.87484741,primary percentage
+Ireland,2010,99.68173218,primary percentage
+Israel,2000,99.5462265,primary percentage
+Israel,2005,99.97190094,primary percentage
+Israel,2010,99.9256134,primary percentage
+Italy,1985,99.14357758,primary percentage
+Italy,1995,97.1973114,primary percentage
+Italy,2000,99.97148132,primary percentage
+Italy,2005,99.554039,primary percentage
+Italy,2010,99.54988861,primary percentage
+Jamaica,1975,93.15515137,primary percentage
+Jamaica,1980,95.5834198,primary percentage
+Jamaica,1985,95.73973846,primary percentage
+Jamaica,2000,93.5644989,primary percentage
+Japan,1975,98.74014282,primary percentage
+Japan,1980,99.93557739,primary percentage
+Japan,1985,99.91525269,primary percentage
+Japan,1990,99.96990204,primary percentage
+Japan,1995,99.95916748,primary percentage
+Japan,2000,99.97020721,primary percentage
+Japan,2005,99.9993515,primary percentage
+Japan,2010,99.94351196,primary percentage
+Jordan,1975,95.03115082,primary percentage
+Jordan,1980,95.60562134,primary percentage
+Jordan,1985,90.66763306,primary percentage
+Jordan,2000,98.94020081,primary percentage
+Jordan,2005,98.91098022,primary percentage
+Jordan,2010,89.74887848,primary percentage
+Kazakhstan,2000,94.13365173,primary percentage
+Kazakhstan,2010,99.65258789,primary percentage
+Kenya,2000,66.03253937,primary percentage
+Kenya,2005,88.6448288,primary percentage
+Kuwait,1975,69.61566162,primary percentage
+Kuwait,1980,81.88105774,primary percentage
+Kuwait,1985,88.00019836,primary percentage
+Kuwait,2000,97.17221832,primary percentage
+Kuwait,2005,96.10462189,primary percentage
+Kuwait,2010,98.03639984,primary percentage
+Kyrgyzstan,2000,93.2651062,primary percentage
+Kyrgyzstan,2005,95.12741089,primary percentage
+Kyrgyzstan,2010,94.54017639,primary percentage
+Laos,1990,64.92220306,primary percentage
+Laos,2000,75.69538116,primary percentage
+Laos,2005,80.61728668,primary percentage
+Laos,2010,94.21662903,primary percentage
+Latvia,2010,99.31617737,primary percentage
+Lesotho,1970,60.08742142,primary percentage
+Lesotho,1980,62.60276031,primary percentage
+Lesotho,1985,69.90937805,primary percentage
+Lesotho,1990,71.75871277,primary percentage
+Lesotho,1995,71.23164368,primary percentage
+Lesotho,2000,80.41654205,primary percentage
+Lesotho,2005,77.51576233,primary percentage
+Lesotho,2010,79.03102875,primary percentage
+Libya,1975,93.85868073,primary percentage
+Libya,1980,96.87316132,primary percentage
+Lithuania,2000,99.83796692,primary percentage
+Lithuania,2005,92.13455963,primary percentage
+Lithuania,2010,99.97454071,primary percentage
+Luxembourg,1975,91.25173187,primary percentage
+Luxembourg,2000,97.74781799,primary percentage
+Luxembourg,2005,98.3014679,primary percentage
+Luxembourg,2010,95.76097107,primary percentage
+Macao,1990,84.6388092,primary percentage
+Malawi,2005,98.2278595,primary percentage
+Malaysia,1970,84.24533081,primary percentage
+Malaysia,2000,97.81433868,primary percentage
+Malaysia,2005,96.81165314,primary percentage
+Malaysia,2010,94.56539917,primary percentage
+Maldives,2000,97.93946838,primary percentage
+Mali,2005,56.11360168,primary percentage
+Mali,2010,67.98075104,primary percentage
+Malta,1975,87.99297333,primary percentage
+Malta,1980,98.93466187,primary percentage
+Malta,1985,96.23690796,primary percentage
+Malta,1990,97.62471008,primary percentage
+Malta,1995,95.79968262,primary percentage
+Mauritania,1995,53.71123123,primary percentage
+Mauritania,2000,59.85354996,primary percentage
+Mauritania,2005,70.65300751,primary percentage
+Mauritania,2010,70.24217987,primary percentage
+Mauritius,1975,80.05567932,primary percentage
+Mauritius,1980,79.26113892,primary percentage
+Mauritius,1985,99.90898895,primary percentage
+Mauritius,1990,97.17809296,primary percentage
+Mauritius,2000,99.77375031,primary percentage
+Mauritius,2005,99.3533783,primary percentage
+Mauritius,2010,98.94210815,primary percentage
+Mexico,1985,94.30719757,primary percentage
+Mexico,1990,97.05747986,primary percentage
+Mexico,1995,96.54032898,primary percentage
+Mexico,2000,98.72635651,primary percentage
+Mexico,2005,96.33650208,primary percentage
+Mexico,2010,96.39218903,primary percentage
+Moldova,2000,100,primary percentage
+Moldova,2005,95.27603912,primary percentage
+Moldova,2010,91.55068207,primary percentage
+Mongolia,1980,96.4837265,primary percentage
+Mongolia,1995,81.08129883,primary percentage
+Mongolia,2000,92.86084747,primary percentage
+Mongolia,2005,93.27429199,primary percentage
+Mongolia,2010,99.4150238,primary percentage
+Morocco,1975,40.87437057,primary percentage
+Morocco,1980,55.71529007,primary percentage
+Morocco,1985,62.47755814,primary percentage
+Morocco,1990,55.84590149,primary percentage
+Morocco,1995,63.35610962,primary percentage
+Morocco,2000,79.79673767,primary percentage
+Morocco,2005,86.82820129,primary percentage
+Morocco,2010,95.44545746,primary percentage
+Mozambique,1985,50.37052155,primary percentage
+Mozambique,1990,44.23812866,primary percentage
+Mozambique,1995,43.61661148,primary percentage
+Mozambique,2000,55.18371964,primary percentage
+Mozambique,2005,72.18795776,primary percentage
+Mozambique,2010,87.05188751,primary percentage
+Myanmar,2000,89.91739655,primary percentage
+Myanmar,2005,88.95819092,primary percentage
+Myanmar,2010,87.74733734,primary percentage
+Namibia,1990,79.42256165,primary percentage
+Namibia,1995,85.67259216,primary percentage
+Namibia,2000,89.23786163,primary percentage
+Namibia,2005,88.26715088,primary percentage
+Nepal,2000,72.61186981,primary percentage
+Netherlands,1975,90.13925934,primary percentage
+Netherlands,1980,91.77822876,primary percentage
+Netherlands,1985,86.87299347,primary percentage
+Netherlands,1990,96.57739258,primary percentage
+Netherlands,1995,99.81561279,primary percentage
+Netherlands,2000,99.51081848,primary percentage
+Netherlands,2005,98.38950348,primary percentage
+Netherlands,2010,99.88475037,primary percentage
+New Zealand,1970,99.89875031,primary percentage
+New Zealand,1975,99.54016876,primary percentage
+New Zealand,1980,99.47995758,primary percentage
+New Zealand,1985,99.56520844,primary percentage
+New Zealand,1990,99.52485657,primary percentage
+New Zealand,1995,98.38564301,primary percentage
+New Zealand,2000,99.44953156,primary percentage
+New Zealand,2005,99.60938263,primary percentage
+New Zealand,2010,99.85501099,primary percentage
+Nicaragua,1970,52.41970062,primary percentage
+Nicaragua,1975,57.51945114,primary percentage
+Nicaragua,1980,64.39705658,primary percentage
+Nicaragua,1985,66.06942749,primary percentage
+Nicaragua,1990,67.51699066,primary percentage
+Nicaragua,1995,73.4343338,primary percentage
+Nicaragua,2000,85.93254089,primary percentage
+Nicaragua,2005,99.36273193,primary percentage
+Nicaragua,2010,98.41053009,primary percentage
+Niger,1990,23.45211983,primary percentage
+Niger,2000,27.38138962,primary percentage
+Niger,2005,41.80241013,primary percentage
+Niger,2010,55.74570847,primary percentage
+Norway,1980,99.20334625,primary percentage
+Norway,1985,96.44844818,primary percentage
+Norway,1990,99.79827118,primary percentage
+Norway,1995,98.21369171,primary percentage
+Norway,2000,99.87837219,primary percentage
+Norway,2005,98.70774841,primary percentage
+Norway,2010,99.12864685,primary percentage
+Pakistan,2005,72.57987976,primary percentage
+Pakistan,2010,74.67796326,primary percentage
+Panama,1970,74.35031128,primary percentage
+Panama,1975,88.8296814,primary percentage
+Panama,1980,88.13562012,primary percentage
+Panama,1985,85.03999329,primary percentage
+Panama,1990,86.61984253,primary percentage
+Panama,2000,95.66210175,primary percentage
+Panama,2005,98.8638916,primary percentage
+Panama,2010,98.51113892,primary percentage
+Paraguay,1970,79.9347229,primary percentage
+Paraguay,1975,78.98892975,primary percentage
+Paraguay,1980,86.05019379,primary percentage
+Paraguay,1985,87.89884949,primary percentage
+Paraguay,1990,92.97129059,primary percentage
+Paraguay,1995,91.70485687,primary percentage
+Paraguay,2000,99.73829651,primary percentage
+Paraguay,2005,97.44132996,primary percentage
+Paraguay,2010,91.15969086,primary percentage
+Peru,1970,76.47675323,primary percentage
+Peru,1980,85.57498169,primary percentage
+Peru,1985,95.42543793,primary percentage
+Peru,1995,88.54273224,primary percentage
+Peru,2000,99.95327759,primary percentage
+Peru,2005,99.08725739,primary percentage
+Peru,2010,99.04499817,primary percentage
+Philippines,1985,94.41545105,primary percentage
+Philippines,1990,98.44264984,primary percentage
+Philippines,2005,90.16982269,primary percentage
+Poland,2000,96.21595001,primary percentage
+Poland,2005,95.19303894,primary percentage
+Poland,2010,97.2298584,primary percentage
+Portugal,1980,96.11454773,primary percentage
+Portugal,1990,99.72055054,primary percentage
+Portugal,1995,99.47103882,primary percentage
+Portugal,2000,97.52388763,primary percentage
+Portugal,2005,99.66413879,primary percentage
+Portugal,2010,99.96865845,primary percentage
+Qatar,1980,96.0963974,primary percentage
+Qatar,1985,91.24916077,primary percentage
+Qatar,1990,85.33660126,primary percentage
+Qatar,2000,95.68818665,primary percentage
+Qatar,2005,95.69853973,primary percentage
+Qatar,2010,95.02728271,primary percentage
+Romania,1995,87.73365021,primary percentage
+Romania,2000,92.3099823,primary percentage
+Romania,2005,98.68406677,primary percentage
+Romania,2010,94.95211792,primary percentage
+Russia,1995,93.25019073,primary percentage
+Rwanda,2010,98.50698853,primary percentage
+Senegal,1980,34.60092163,primary percentage
+Senegal,1985,40.68368912,primary percentage
+Senegal,1990,44.68190002,primary percentage
+Senegal,2000,57.8277092,primary percentage
+Senegal,2005,63.76292038,primary percentage
+Senegal,2010,70.74362183,primary percentage
+Serbia,2005,99.70359039,primary percentage
+Serbia,2010,94.91871643,primary percentage
+Slovenia,1995,92.86260986,primary percentage
+Slovenia,2000,95.53916931,primary percentage
+Slovenia,2005,99.50347137,primary percentage
+Slovenia,2010,98.16889191,primary percentage
+South Africa,2000,91.9256134,primary percentage
+South Africa,2005,88.57565308,primary percentage
+South Korea,1975,96.41001129,primary percentage
+South Korea,1980,99.87272644,primary percentage
+South Korea,1985,98.51326752,primary percentage
+South Korea,1990,99.37552643,primary percentage
+South Korea,1995,98.79821014,primary percentage
+South Korea,2000,99.75582123,primary percentage
+South Korea,2005,99.74649811,primary percentage
+South Korea,2010,99.55995178,primary percentage
+Spain,1975,99.47708893,primary percentage
+Spain,1980,99.16388702,primary percentage
+Spain,1985,99.79788971,primary percentage
+Spain,1990,99.22608185,primary percentage
+Spain,1995,99.96054077,primary percentage
+Spain,2000,99.8432312,primary percentage
+Spain,2005,99.85740662,primary percentage
+Spain,2010,99.78170776,primary percentage
+Sri Lanka,2010,95.04415131,primary percentage
+Sweden,1990,99.5568924,primary percentage
+Sweden,1995,98.84095764,primary percentage
+Sweden,2000,99.6378479,primary percentage
+Sweden,2005,95.6758728,primary percentage
+Sweden,2010,99.63607788,primary percentage
+Switzerland,1985,76.14630127,primary percentage
+Switzerland,1990,83.32286072,primary percentage
+Switzerland,1995,88.99082184,primary percentage
+Switzerland,2000,99.6641922,primary percentage
+Switzerland,2005,98.28173828,primary percentage
+Switzerland,2010,99.26786041,primary percentage
+Syria,1975,83.8189621,primary percentage
+Syria,1980,85.93943024,primary percentage
+Syria,1985,90.01197052,primary percentage
+Syria,1990,94.97702789,primary percentage
+Syria,1995,96.47147369,primary percentage
+Syria,2000,96.86212158,primary percentage
+Syria,2005,99.20258331,primary percentage
+Syria,2010,98.93180084,primary percentage
+Tajikistan,2000,95.46701813,primary percentage
+Tajikistan,2005,98.09532166,primary percentage
+Tajikistan,2010,98.57524109,primary percentage
+Tanzania,1980,69.86820984,primary percentage
+Tanzania,1985,56.4403801,primary percentage
+Tanzania,1995,48.70761871,primary percentage
+Tanzania,2010,89.1167984,primary percentage
+Togo,1980,71.9015274,primary percentage
+Togo,1985,58.01419067,primary percentage
+Togo,1990,64.48990631,primary percentage
+Togo,1995,71.27671051,primary percentage
+Togo,2000,85.02635956,primary percentage
+Togo,2005,90.88773346,primary percentage
+Tonga,1970,87.6900177,primary percentage
+Tonga,1975,97.2842865,primary percentage
+Tonga,1985,96.98317719,primary percentage
+Tonga,1990,92.29122162,primary percentage
+Trinidad and Tobago,1985,92.16172028,primary percentage
+Trinidad and Tobago,1990,90.0338974,primary percentage
+Tunisia,1975,75.79840851,primary percentage
+Tunisia,1980,81.44101715,primary percentage
+Tunisia,1985,92.32019043,primary percentage
+Tunisia,1990,93.94577789,primary percentage
+Tunisia,1995,96.42446136,primary percentage
+Tunisia,2000,95.43813324,primary percentage
+Tunisia,2005,98.86972046,primary percentage
+Tunisia,2010,99.63182831,primary percentage
+Turkey,1990,94.37859344,primary percentage
+Turkey,1995,90.55436707,primary percentage
+Turkey,2000,95.83535767,primary percentage
+Turkey,2005,97.78913879,primary percentage
+Turkey,2010,96.45596313,primary percentage
+Ukraine,2005,89.51122284,primary percentage
+Ukraine,2010,94.41233063,primary percentage
+United Arab Emirates,1980,76.19822693,primary percentage
+United Arab Emirates,1985,74.95632935,primary percentage
+United Arab Emirates,1990,98.40776825,primary percentage
+United Arab Emirates,1995,92.31784058,primary percentage
+United Kingdom,1975,95.76132965,primary percentage
+United Kingdom,1980,97.75508118,primary percentage
+United Kingdom,1985,93.56555939,primary percentage
+United Kingdom,1990,99.79315948,primary percentage
+United Kingdom,2000,99.96843719,primary percentage
+United Kingdom,2005,99.9957428,primary percentage
+United Kingdom,2010,99.61820221,primary percentage
+United States of America,1975,81.28006744,primary percentage
+United States of America,1990,98.04872131,primary percentage
+United States of America,1995,97.04087067,primary percentage
+United States of America,2000,99.45171356,primary percentage
+United States of America,2005,97.78220367,primary percentage
+United States of America,2010,97.56397247,primary percentage
+Uruguay,1985,88.25395203,primary percentage
+Uruguay,1995,92.54289246,primary percentage
+Uruguay,2005,99.93678284,primary percentage
+Uruguay,2010,99.8423996,primary percentage
+Venezuela,1975,70.65106201,primary percentage
+Venezuela,2000,89.79429626,primary percentage
+Venezuela,2005,93.62647247,primary percentage
+Venezuela,2010,95.50392151,primary percentage
+Yemen,2005,75.8423233,primary percentage
+Yemen,2010,81.81964874,primary percentage
+Zambia,1980,77.44418335,primary percentage
+Zimbabwe,2000,84.5295105,primary percentage
