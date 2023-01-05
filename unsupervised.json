@@ -1,0 +1,22 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Stock price of Apple vs Blackberry over the last 5 years",
+    "width": 450,
+    "height": 300,
+    "description": "Stock prices of 5 Tech Companies over Time.",
+    "data": {"url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/stocks.csv"},
+    "mark": "line",
+    "encoding": {
+      "x": {"field": "Date", "type": "temporal", "axis": {"grid": false, "title": "Date"}},
+      "y": {"field": "closeprice", "type": "quantitative", "axis": {"grid": false, "title": "Close price ($)"}},
+      "color": {"field": "company", "type": "nominal", "title": "Company", "scale": {"scheme": "tableau20"},
+        "legend": {
+          "labelExpr": "{'AAPL': 'Apple', 'BB': 'Blackberry'}[datum.label]"
+        }},
+         "tooltip": [
+        {"field": "closeprice", "title": "price", "format": ".2f"}
+  
+      ]
+    }
+  }
+  

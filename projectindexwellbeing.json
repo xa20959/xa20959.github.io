@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Relationship between the quality of education and wellbeing",
+    "subtitle": [
+      "Education Index (0=Low, 1=High)",
+      "Wellbeing Score (Happy Planet) (0=Low, 10=High)"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "fontSize": 16,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/educationandwellbeing.csv",
+    "format": {"type": "csv"}
+  },
+  "height": 400,
+  "width": 350,
+  "mark": {"type": "circle", "size": 100},
+  "transform": [{"filter": "datum.year==year"}],
+  "params": [
+    {
+      "name": "year",
+      "value": 2019,
+      "bind": {
+        "input": "range",
+        "min": 2008,
+        "max": 2019,
+        "step": 1,
+        "name": "Select year:"
+      }
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "wellbeing",
+      "type": "quantitative",
+      "title": "Wellbeing Score",
+      "scale": {"domain": [0, 10]},
+      "axis": {
+        "grid": false
+      }
+    },
+    "y": {
+      "field": "education",
+      "type": "quantitative",
+      "title": "Education Index",
+      "scale": {"domain": [0, 1]},
+      "axis": {
+        "grid": false
+        
+      }
+    },
+    "color": {
+      "field": "Country",
+      "type": "nominal",
+      "title": "country",
+      "scale": {"scheme": "tableau20"},
+      "legend": null
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal", "title": "Country"},
+      {
+        "field": "wellbeing",
+        "type": "quantitative",
+        "title": "Wellbeing Score"
+      },
+      {
+        "field": "education",
+        "type": "quantitative",
+        "title": "Education Index Score"
+      }
+    ]
+  }
+}

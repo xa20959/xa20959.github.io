@@ -1,25 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": {
-      "cdid": "YBUG",
-  "contact": {
-  "email": "labour.market@ons.gov.uk",
-  "name": "Debra Leaker",
-  "telephone": "+44 1633 455400"
-  },
-  "datasetId": "LMS",
-  "datasetUri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatistics",
-  "date": "2022 JUL",
-  "monthLabelStyle": "three month average",
-  "nextRelease": "15 November 2022",
-  "number": "84.2",
-  "preUnit": "",
-  "releaseDate": "2022-10-10T23:00:00.000Z",
-  "sampleSize": "0",
-  "source": "",
-  "title": "LFS: Employment rate: UK: All: Aged 25-34: %: SA",
-  "unit": "%"
-    },
+
     "title": {
       "text": "UK Employment rate: All: Aged 25-34",
       "subtitle": "Source: ONS",

@@ -1,0 +1,54 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": [
+      "Enrollment Ratio in Secondary Education (latest values) "
+    ],
+    "subtitle": "Source: 'ourworldindata'",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "width": 280,
+  "height": 200,
+  "config": 
+  {"style": 
+  {"cell": {"stroke": "transparent"}}},
+  "data": {
+    "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/globaltotals2.csv"
+  },
+  "transform": [
+    {
+      "lookup": "country",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/countries-110m.json",
+          "format": {"type": "topojson", "feature": "countries"}
+        },
+        "key": "properties.name",
+        "fields": ["properties", "type", "geometry"]
+      }
+    }
+  ],
+
+  "projection": {"type": "equalEarth"},
+ "mark": {"type": "geoshape"},
+
+  "encoding": {
+
+    "color": {"field": "secondary percentage", 
+    "type": "quantitative", 
+    "title": "ratio", 
+    "scale": {"scheme": "blues", "domain": [0,100]}},
+
+    "tooltip": [
+
+      {"field": "country", "type": "nominal", "title": "Country"},
+
+      
+      {"field": "secondary percentage", "type": "quantitative", "title": "secondary ratio", "format": ".2f"}
+
+    ]
+  }
+}

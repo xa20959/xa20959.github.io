@@ -1,0 +1,74 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/alldata.csv"
+    },
+    "height": 400,
+    "width": 400,
+    "title": {
+      "text": [
+        "Relationship between a country's Happiness Score and Proportion",
+        "of their Population (over 25) with a Bachelor's degree"
+      ]
+    },
+    "layer": [
+      {
+        "mark": {"type": "point", "filled": true, "color": "mediumorchid"},
+        "encoding": {
+          "x": {
+            "field": "happy",
+            "type": "quantitative",
+            "scale": {"domain": [2, 8]},
+            "title": "Happiness Score",
+            "axis": {
+          "grid": false
+        }
+          },
+          "y": {
+            "field": "degree25",
+            "type": "quantitative",
+            "title": "% of over 25s with a Bachelor's degree",
+            "axis": {
+          "grid": false
+        }
+          },
+          "tooltip": [
+            {"field": "Country", "type": "nominal"},
+            {
+              "field": "happy",
+              "type": "quantitative",
+              "title": "World Happiness Score 2022"
+            },
+            {
+              "field": "degree25",
+              "type": "quantitative",
+              "title": "% of population over 25 with a Bachelor's degree",
+              "format": ".2f"
+            }
+          ]
+        }
+      },
+      {
+        "mark": {"type": "line", "color": "firebrick"},
+        "transform": [{"regression": "degree25", "on": "happy"}],
+        "encoding": {
+          "x": {"field": "happy", "type": "quantitative"},
+          "y": {"field": "degree25", "type": "quantitative"}
+        }
+      },
+      {
+        "transform": [
+          {"regression": "degree25", "on": "happy", "params": true},
+          {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+        ],
+        "mark": {
+          "type": "text",
+          "color": "firebrick",
+          "x": "width",
+          "align": "right",
+          "y": -5
+        },
+        "encoding": {"text": {"type": "nominal", "field": "R2"}}
+      }
+    ]
+  }

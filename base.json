@@ -1,0 +1,27 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Africa base map",
+      "anchor": "start",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10
+    },
+
+    "width": 400,
+    "height": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/custom.geo%20(1).json",
+      "format": 
+      {"property": "features"}
+    },
+
+    "projection": {"type": "mercator"},
+    "mark": {
+      "type": "geoshape",
+      "stroke": "black",
+      "fill": "lightblue",
+      "strokeWidth": 0.5
+    },
+    "encoding": {
+      "tooltip": {"field": "properties.name", "type": "nominal"}}
+  }

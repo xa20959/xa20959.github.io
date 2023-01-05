@@ -1,0 +1,95 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json",
+  "description": "Interactive chart with year slider to view data from 2013 to 2021",
+  "height": 310,
+  "width": 420,
+  "padding": 0,
+  "title": {
+    "text": "Average income (before tax) for US graduates with a degree",
+    "subtitle": "Source: FRED API",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black",
+    "subtitleColor": "#black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/data_FRED-CXU900000LB1408M.json",
+    "format": {"type": "json", "property": "observations"}
+  },
+  "mark": {
+    "type": "area",
+    "cursor": "pointer",
+    "line": {"color": "purple"},
+    "color": {
+      "x1": 1,
+      "y1": 1,
+      "x2": 1,
+      "y2": 0,
+      "gradient": "linear",
+      "stops": [
+        {"offset": 0, "color": "white"},
+        {"offset": 1, "color": "purple"}
+      ]
+    }
+  },
+  "transform": [
+    {"calculate": "year(datum.date)", "as": "year"},
+    {"filter": "datum.year>minYear"},
+    {"filter": "datum.year<maxYear"}
+  ],
+  "params": [
+    {
+      "name": "minYear",
+      "value": 2011,
+      "bind": {
+        "input": "range",
+        "min": 2011,
+        "max": 2022,
+        "step": 1,
+        "name": "Start Year: "
+      }
+    },
+    {
+      "name": "maxYear",
+      "value": 2022,
+      "bind": {
+        "input": "range",
+        "min": 2011,
+        "max": 2022,
+        "step": 1,
+        "name": "End Year: "
+      }
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "date",
+      "type": "temporal",
+      "title": null,
+      "axis": {
+        "grid": false,
+        "labelSeparation": 25,
+        "labelColor": "black",
+        "tickColor": "purple",
+        "domainColor": "puurple"
+      }
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "scale": {"domain": [0,100000]},
+      "title": null,
+      "axis": {
+        "grid": true,
+        "labelColor": "black",
+        "tickColor": "purple",
+        "domainColor": "purple"
+      }
+    },
+    "tooltip": [
+      {"field": "year", "type": "nominal", "title": "Year"},
+      {"field": "value", "type": "quantitative", "title": "Salary"}
+    ]
+  }
+}

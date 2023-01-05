@@ -1,0 +1,38 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Median House Prices across the USA (2022",
+    "subtitle": "source: World Population Review",
+    "anchor": "start",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10
+  },
+  "width": 400,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/charts/maps/geoUSStates.json",
+    "format": {"property": "features"}
+  },
+  "projection": {"type": "albersUsa"},
+  "transform": [
+    {
+      "lookup": "properties.NAME",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/price.csv"
+        },
+        "key": "state",
+        "fields": ["price"]
+      }
+    }
+  ],
+  "mark": {"type": "geoshape", "stroke": "darkgrey", "strokeWidth": 0.8},
+  "encoding": {
+    "color": {"field": "price", "type": "quantitative",
+     "scale": {"scheme": "blues"}},
+    "tooltip": [
+      {"field": "properties.NAME", "type": "nominal", "title": "State"},
+      {"field": "price", "title": "Median Houe Price 2022"}
+    ]
+  }
+}

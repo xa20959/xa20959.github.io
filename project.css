@@ -1,0 +1,156 @@
+
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Ubuntu:wght@300&display=swap');
+
+
+body{
+  max-width: 560px;
+  margin: auto;
+}
+
+footer {
+  height: 100px
+}
+
+h1{
+  font-family: 'Kanit', sans-serif;  font-size: 55px;
+text-align: center;
+line-height: 1;
+letter-spacing: 1px;
+}
+
+h2{
+font-family: 'Kanit', sans-serif;  font-size: 35px;
+text-align: center;
+line-height: 1;
+letter-spacing: 1px;
+}
+
+h3{
+font-family: 'Kanit', sans-serif;  font-size: 15px;
+text-align: center;
+line-height: 1;
+letter-spacing: 1px;
+color:rgb(18, 98, 156)
+}
+h1, p{
+  color:rgb(18, 98, 156);
+  font-family: 'Kanit', sans-serif;
+  text-align: center;
+  line-height: 2;
+  letter-spacing: 1.1px;
+}
+
+.chart { 
+  width: auto;
+  height: auto;
+  margin: 10px;
+  padding: 5px;
+  background-color: White;
+  border: #E0EAED solid 5px;
+  border-radius: 10px;
+  font-family: Inter,sans-serif;
+  font-size: 10pxp;
+}
+
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+/* Button Format */
+.codeButton {
+  background-color: transparent;
+  border: 1px solid rgb(241, 240, 244);
+  color: rgb(18, 98, 156);
+  font-family: 'Roboto', sans-serif;
+  line-height: 16px;
+  font-weight: 600;
+  border-radius: 150px;
+  box-sizing: content-box;
+  align-items: flex-start;
+  display: inline-block;
+  font-size: 12px;
+  margin: 1px 2px 1px 2px;
+  text-decoration: none;
+  max-width: 100px;
+  outline-offset: 2px;
+  overflow: hidden;
+  padding: 5px 12px;
+  text-align: left;
+  text-overflow: ellipsis;
+  transition: border-color,background-color .5s ease;
+  white-space: nowrap;
+}
+
+
+.loader {
+border: 16px solid #f3f3f3; 
+border-top: 16px solid #FF9900;
+border-radius: 50%;
+width: 120px;
+height: 120px;
+animation: spin 2s linear infinite;
+}
+/* BUTTONS */
+
+a{
+  border: 5px;
+  border-color: black;
+  border-style: solid;
+ line-height: 5;
+  margin:20px;
+  text-align: center;
+}
+
+
+.wrap a {
+
+  float: left;
+      
+  list-style-type: none;
+      
+  color: rgba(255, 192, 203, 0.602);
+      
+  text-align: center;
+  
+  padding-top: clamp(0.5em,1%,1.5em);
+      
+  padding-bottom: clamp(0.5em,1%,1.5em);
+      
+  text-decoration: none;
+      
+  font-size: 1.1em;
+  font-family: 'Nunito', sans-serif;
+      
+  cursor: pointer;
+      
+  width: 16%;
+
+  }
+
+#link1{
+  border-color:rgba(255, 192, 203, 0.602);
+  border-style:double;
+  text-align: center;
+}
+
+#link2{
+  border-color:rgba(255, 192, 203, 0.602);
+  border-style:double;
+  text-align: center;
+}
+
+#link3{
+  border-color:rgba(255, 192, 203, 0.602);
+  border-style:double;
+  text-align: center;
+}
+
+#link4{
+  border-color:rgba(255, 192, 203, 0.602);
+  border-style:double;
+  text-align: center;
+}

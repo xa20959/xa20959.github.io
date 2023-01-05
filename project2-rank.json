@@ -1,0 +1,36 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 300,
+    "title": {
+    "text": "Top 10 countries with the most top ranking Universities",
+    "subtitle": "out of the global top 750, source: WorldAtlas"},
+    "data": {
+      "values": [{"Rank": 1, "Country": "United States", "Number of Top Ranking Universities": 181}, {"Rank": 2, "Country": "China", "Number of Top Ranking Universities": 57}, {"Rank": 3, "Country": "United Kingdom", "Number of Top Ranking Universities": 55}, {"Rank": 4, "Country": "Germany", "Number of Top Ranking Universities": 50}, {"Rank": 5, "Country": "Italy", "Number of Top Ranking Universities": 38}, {"Rank": 6, "Country": "France", "Number of Top Ranking Universities": 30}, {"Rank": 7, "Country": "Canada", "Number of Top Ranking Universities": 26}, {"Rank": 8, "Country": "Australia", "Number of Top Ranking Universities": 26}, {"Rank": 9, "Country": "Spain", "Number of Top Ranking Universities": 25}, {"Rank": 10, "Country": "Japan", "Number of Top Ranking Universities": 24}]
+    },
+    "mark": {"type":"bar", "color": "lightsteelblue"},
+    "encoding": {
+      "x": {"field": "Country",  "type": "nominal", 
+      "sort": ["United States", "China", "United Kingdom", "Germany"],
+    
+      "axis": {"labelAngle": 45}},
+      "y": {"field": "Number of Top Ranking Universities", "type": "quantitative"},
+      "tooltip": [
+        {
+          "field": "Rank",
+          "type": "ordinal",
+          "title": "Rank"
+        },
+        {
+          "field": "Country",
+          "type": "nominal",
+          "title": "Country"
+        },
+        {
+          "field": "Number of Top Ranking Universities",
+          "type": "quantitative"
+        }
+      ]
+    }
+  }
+  

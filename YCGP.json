@@ -5715,6 +5715,6 @@
         "axis": {"labelAngle": 0},
         "title": "Year"
       },
-      "y": {"field": "value", "type": "quantitative", "title": "Unemployment rate (%)", "scale": {"domain":[0,20]}}
+      "y": {"field": "value", "type": "quantitative", "title": "Unemployment rate (%)"}
     }
   }

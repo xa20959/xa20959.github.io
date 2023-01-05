@@ -6,7 +6,7 @@
   "width": 370,
 
   "title": {
-    "text": "Simple bar chart with embedded data - CSV into dictionaries ",
+    "text": "Simple bar chart with embedded data - CSV into dictionary ",
     "subtitle": "data on gilt strip yields",
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,

@@ -1,0 +1,34 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+   "data": {
+      "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/incomecompare.csv"
+    },
+    "width": 360,
+    "height": 300,
+    "title": {
+      "text": "Comparison of average salary using different education levels",
+      "subtitle": "Source: FRED APIs, Location: USA",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "date",
+        "type": "nominal"},
+      "y": {"field": "value",
+        "title": "Cumulative Average Salary (US$)",
+        "type": "quantitative"},
+      "xOffset": {"field": "highest level"},
+      "color": {"field": "highest level",
+       "legend": {"orient": "right", "title": "Highest level of education"},
+        "title": "Completed Tertiary Education",
+        "scale": {"scheme": "tableau20"}},
+        "tooltip": [
+        {"field": "highest level", "title": "Highest level obtained"},
+        {"field": "value", "title": "Average Salary"}
+      ]
+    }
+  }
+  

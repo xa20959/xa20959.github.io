@@ -1,33 +1,48 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": {
-      "text": "Premier League Table 2022",
-      "subtitle": ["Source: Sky Sports"],
-      "subtitleFontSize": 10,
-      "anchor": "middle",
-      "color": "black"
-    },
-    "data": {
-      "values": [{"Team": "Arsenal", "Pts": 37}, {"Team": "Manchester City", "Pts": 32}, {"Team": "Newcastle United", "Pts": 30}, {"Team": "Tottenham Hotspur", "Pts": 29}, {"Team": "Manchester United", "Pts": 23}, {"Team": "Liverpool", "Pts": 22}, {"Team": "Brighton and Hove Albion", "Pts": 21}, {"Team": "Chelsea", "Pts": 21}, {"Team": "Fulham", "Pts": 19}, {"Team": "Brentford", "Pts": 19}, {"Team": "Crystal Palace", "Pts": 19}, {"Team": "Aston Villa", "Pts": 18}, {"Team": "Leicester City", "Pts": 17}, {"Team": "Bournemouth", "Pts": 16}, {"Team": "Leeds United", "Pts": 15}, {"Team": "West Ham United", "Pts": 14}, {"Team": "Everton", "Pts": 14}, {"Team": "Nottingham Forest", "Pts": 13}, {"Team": "Southampton", "Pts": 12}, {"Team": "Wolverhampton Wanderers", "Pts": 10}]
-    },
-    "height": 300,
-    "mark": {
-      "type": "bar", 
-      "color": "seagreen"},
-  
-    "encoding": {
-      "x": {
-        "field": "Team", 
-        "type": "nominal", 
-        "sort": ["null"]},
-     
-  
-      "y": {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Premier League Table 2022",
+    "subtitle": ["Source: Sky Sports"],
+    "subtitleFontSize": 10,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "data": {
+    "values": [
+      {"Team": "Arsenal", "Pts": 37},
+      {"Team": "Manchester City", "Pts": 32},
+      {"Team": "Newcastle United", "Pts": 30},
+      {"Team": "Tottenham Hotspur", "Pts": 29},
+      {"Team": "Manchester United", "Pts": 23},
+      {"Team": "Liverpool", "Pts": 22},
+      {"Team": "Brighton and Hove Albion", "Pts": 21},
+      {"Team": "Chelsea", "Pts": 21},
+      {"Team": "Fulham", "Pts": 19},
+      {"Team": "Brentford", "Pts": 19},
+      {"Team": "Crystal Palace", "Pts": 19},
+      {"Team": "Aston Villa", "Pts": 18},
+      {"Team": "Leicester City", "Pts": 17},
+      {"Team": "Bournemouth", "Pts": 16},
+      {"Team": "Leeds United", "Pts": 15},
+      {"Team": "West Ham United", "Pts": 14},
+      {"Team": "Everton", "Pts": 14},
+      {"Team": "Nottingham Forest", "Pts": 13},
+      {"Team": "Southampton", "Pts": 12},
+      {"Team": "Wolverhampton Wanderers", "Pts": 10}
+    ]
+  },
+  "height": 330,
+  "width": 510,
+  "mark": {"type": "bar", "color": "rgb(0,47,167"},
+  "encoding": {
+    "x": {"field": "Team", "type": "nominal", "sort": ["null"]},
+    "y": {"field": "Pts", "title": "Total Points", "type": "quantitative"},
+    "tooltip": [
+      {
         "field": "Pts",
-        "title": "Total Points", 
-  
-        "type": "quantitative"
+        "type": "quantitative",
+        "title": "Points"
       }
-     
-    }
+    ]
   }
+}

@@ -1,0 +1,95 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/newdemocracy.csv"
+  },
+  "height": 400,
+  "width": 460,
+  "title": {
+    "text": "Relationship between compulsory years of schooling and democracy",
+    "subtitle": "democracy score: (0=low, 1=high)",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start"
+  },
+  "transform": [{"filter": "datum.Year==year"}],
+  "params": [
+    {
+      "name": "year",
+      "value": 2021,
+      "bind": {
+        "input": "range",
+        "min": 1998,
+        "max": 2021,
+        "step": 1,
+        "name": "Select year:"
+      }
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "circle",
+        "filled": true,
+        "tooltip": true,
+        "opacity": 0.5
+      },
+      "encoding": {
+        "x": {
+          "field": "democracy score",
+          "type": "quantitative",
+          "title": "Democracy Score",
+          "axis": {"domain": true, "labelColor": "black", "grid": false}
+        },
+        "y": {
+          "field": "compulsory",
+          "type": "quantitative",
+          "scale": {"domain": [0,20]},
+          "title": "Compulsory Years of Schooling",
+           "axis": {"domain": true, "labelColor": "black", "grid": false}
+        },
+        "tooltip": [
+          {"field": "country", "type": "nominal"},
+          {
+            "field": "democracy score",
+            "type": "quantitative",
+            "title": "Democracy Score "
+          },
+          {
+            "field": "compulsory",
+            "type": "quantitative",
+            "title": "Average Years of Schooling"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "color": "red",
+        "opacity": 1,
+        "thickness": 1,
+        "tooltip": true
+      },
+      "transform": [{"regression": "compulsory", "on": "democracy score"}],
+      "encoding": {
+        "x": {"field": "democracy score", "type": "quantitative"},
+        "y": {"field": "compulsory", "type": "quantitative"}
+      }
+    },
+    {
+      "transform": [
+        {"regression": "compulsory", "on": "democracy score", "params": true},
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "firebrick",
+        "x": "width",
+        "align": "right",
+        "y": -10
+      },
+      "encoding": {"text": {"type": "nominal", "field": "R2"}}
+    }
+  ]
+}

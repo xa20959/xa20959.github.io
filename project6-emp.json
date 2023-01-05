@@ -1,0 +1,92 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+      "text": "Employment rates based off highest level of education completed",
+      "subtitle": "In OECD countries, source: OECD",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+  "data": {
+      "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/compare2.csv"
+    },
+  "width": 360,
+  "height": 300,
+  "layer": [
+    {
+      "encoding": {
+        "x": {
+          "field": "country",
+          "type": "nominal",
+          "axis": {"grid": false, "title": null}
+        },
+        "y": {"field": "data", "title": "Employment rate (%)",    "type": "quantitative", "scale": {"domain": [50, 100]}},
+        "color": {"field": "type", "type": "nominal", "title": "Highest level completed", "legend": {"labelExpr": "{'secemp': 'Secondary Education', 'tertemp': 'Tertiary Education'}[datum.label]"}}
+      },
+      "layer": [
+        {"mark": "line"},
+        {
+          "params": [
+            {
+              "name": "label",
+              "select": {
+                "type": "point",
+                "encodings": ["x"],
+                "nearest": true,
+                "on": "mouseover"
+              }
+            }
+          ],
+          "mark": "point",
+          "encoding": {
+            "opacity": {
+              "condition": {"param": "label", "empty": false, "value": 1},
+              "value": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "transform": [{"filter": {"param": "label", "empty": false}}],
+      "layer": [
+        {
+          "mark": {"type": "rule", "color": "gray"},
+          "encoding": {
+            "x": {"type": "nominal", "field": "country"}
+          }
+        },
+        {
+          "encoding": {
+            "text": {
+              "type": "quantitative",
+              "field": "data"
+            },
+            "x": {"type": "nominal", "field": "country"},
+            "y": {
+              "type": "quantitative",
+              "field": "data"
+            }
+          },
+          "layer": [
+            {
+              "mark": {
+                "type": "text",
+                "stroke": "white",
+                "strokeWidth": 2,
+                "align": "left",
+                "dx": 5,
+                "dy": -5
+              }
+            },
+            {
+              "mark": {"type": "text", "align": "left", "dx": 5, "dy": -5},
+              "encoding": {"color": {"type": "nominal", "field": "type"}}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

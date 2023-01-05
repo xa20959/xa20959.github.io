@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "height": 400,
+    "width": 350,
+    "title": {
+      "text": [
+        "Bubble plot showing effect of Austrlia's disposable",
+        "income on its CO2 emissions"
+      ],
+      "subtitle": "Source: OECD",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/xa20959/xa20959.github.io/main/bubble2.csv"
+    },
+    "mark": "circle",
+    "encoding": {
+      "x": {"field": "year", "type": "temporal", "title": "Year"},
+      "y": {
+        "field": "pollution",
+        "type": "quantitative",
+        "title": "CO2 Emissions (million tonnes)",
+        "scale": {"domain": [300, 500]}
+      },
+      "size": {
+        "field": "disincome",
+        "type": "quantitative",
+        "title": "Disposable Income (% change)",
+        "scale": {"domain": [-1.5, 5]}
+      },
+      "color": {"value": "lightblue"},
+      "tooltip": [
+      {"field": "disincome", "type": "nominal", "title": "Disposable Income (% change year to year)"}]
+    }
+  }
