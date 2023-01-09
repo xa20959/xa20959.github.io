@@ -236,3 +236,50 @@ a{
     height: 120px;
     animation: spin 2s linear infinite;
 }
+
+
+
+/* Mobile*/
+/* Code to make my website 'mobile-first' - removes borders as looks very clunky on mobile otherwise and ensures all charts, writing and buttons fit on the screen */
+@media only screen and (max-width: 450px) {
+
+  .grid-container1 {
+    border-style: none;
+    padding: 1px;
+    gap: 0px 0px;
+  }
+  body {
+    max-width: 98%;
+  }
+  .container {
+    border-style: none;
+    padding: 1px;
+    gap: 0px 0px;
+  }
+
+ 
+  .chart {
+    max-width: 350px;
+    padding: 10px
+  }
+
+}
+
+
+@media (max-width: 990px) {
+  body {
+      overflow-x: hidden;
+  }
+  .heading {
+      font-size: 30px;
+  }
+  .title {
+    font-size: 30px;
+}
+  .chart {
+      width: 320px;
+  }
+
+
+ 
+}
