@@ -18,7 +18,7 @@
       "x": {"field": "date",
         "type": "nominal"},
       "y": {"field": "value",
-        "title": "Cumulative Average Salary (US$)",
+        "title": "Average Salary (US$)",
         "type": "quantitative"},
       "xOffset": {"field": "highest level"},
       "color": {"field": "highest level",
